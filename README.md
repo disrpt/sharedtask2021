@@ -2,6 +2,8 @@
 
 Repository for DISRPT2021 shared task Discourse Unit Segmentation, Connective Detection and Discourse Relation Classification.
 
+**Important:** The data in this repository is currently still in development and is likely to change before being finalized. It should only be used as a sample of the data formats used in the shared task. Stable training and development data will be released in May 2021, and test data will be released in July 2021.
+
 ## Introduction
 
 The [DISRPT 2021](https://sites.google.com/georgetown.edu/disrpt2021) shared task, co-located with [CODI 2021](https://codi-workshop.github.io/news/2021/01/03/codi2021/) at [EMNLP](https://2021.emnlp.org/), introduces the second iteration of a cross-formalism shared task on **discourse unit segmentation** and **connective detection**, as well as the first iteration of a cross-formalism **discourse relation classification** task. 
