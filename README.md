@@ -6,7 +6,7 @@ Repository for DISRPT2021 shared task Discourse Unit Segmentation, Connective De
 
 ## Introduction
 
-The [DISRPT 2021](https://sites.google.com/georgetown.edu/disrpt2021) shared task, co-located with [CODI 2021](https://codi-workshop.github.io/news/2021/01/03/codi2021/) at [EMNLP](https://2021.emnlp.org/), introduces the second iteration of a cross-formalism shared task on **discourse unit segmentation** and **connective detection**, as well as the first iteration of a cross-formalism **discourse relation classification** task. 
+The [DISRPT 2021](https://sites.google.com/georgetown.edu/disrpt2021) shared task, co-located with [CODI 2021](https://sites.google.com/view/codi-2021/) at [EMNLP](https://2021.emnlp.org/), introduces the second iteration of a cross-formalism shared task on **discourse unit segmentation** and **connective detection**, as well as the first iteration of a cross-formalism **discourse relation classification** task. 
 
 We provide training, development and test datasets from all available languages and treebanks in the RST, SDRT and PDTB formalisms, using a uniform format. Because different corpora, languages and frameworks use different guidelines, the shared task is meant to promote design of flexible methods for dealing with various guidelines, and help to push forward the discussion of standards for computational approaches to discourse relations. We include data for evaluation with and without gold syntax, or otherwise using provided automatic parses for comparison to gold syntax data.
 
