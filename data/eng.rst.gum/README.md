@@ -29,10 +29,10 @@ For more details see: https://corpling.uis.georgetown.edu/gum
 
 ## DISRPT 2021 shared task information
 
-For the DISRPT 2021 shared task on elementary discourse unit segmentation, only the 11 open text genres are included (to obtain data in the remaining genre, containing Reddit forum discussions which is not included in the shared task, see the corpus website). The data follows the normal division into train, test and dev partitions used for other tasks (e.g. for the conll shared task on UD parsing).  
+For the DISRPT 2021 shared task on elementary discourse unit segmentation, only 11 open text genres are included with plain text, while the remaining genre, containing Reddit forum discussions, **must be reconstructed** using the script in `utils/process_underscores.py` (see main repository README). The data follows the normal division into train, test and dev partitions used for other tasks (e.g. for the conll shared task on UD parsing).  
 
-POS tags and syntactic parses are the UD version of the manually annotated gold data. 
+POS tags and syntactic parses are manually annotated gold data. 
 
 ### Notes on segmentation
 
-GUM RST guidelines follow the RST-DT segmentation guidelines for English, according to which most clauses, including adnominal and nested clauses are discourse units. This dataset contains discontinuous discourse units (split 'same-unit').
+GUM RST guidelines follow the RST-DT segmentation guidelines for English, according to which most clauses, including adnominal and nested clauses are discourse units. This dataset contains discontinuous discourse units (split 'same-unit'). Note that the .conllu data contains some reconstructed ellipsis tokens with decimal IDs (e.g. 12.1); these do not appear in the other formats and are ignored in token index spans.
