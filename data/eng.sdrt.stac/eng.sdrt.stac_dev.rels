@@ -1,3 +1,4 @@
+doc	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	label
 pilot20	1-3	4	do we start	No	1-3	4	do we start	No	1>2	Question_answer_pair	Question_answer_pair
 pilot20	1-3	5-6	do we start	Not yet	1-3	5-6	do we start	Not yet	1>2	Question_answer_pair	Question_answer_pair
 pilot20	5-6	7-11	Not yet	Wait for the 4th persion	5-6	7-11	Not yet	Wait for the 4th persion	1>2	Explanation	Explanation
