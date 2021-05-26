@@ -27,7 +27,7 @@ The data was automatically parsed using the UDPipe Turkish model (https://github
 
 ### Obtaining the text
 
-Since the underlying texts cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain the raw texts by filling in the user agreement form (`tdb_shared_task_user_agreement.docx`) which they email to `corpora@metu.edu.tr` and run the Python script `utils/process_underscores.py tdb -m add tdb`. For more details, run `python utils/process_underscores.py -h`.
+Since the underlying texts cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain the raw texts by filling in the user agreement form (`tdb_shared_task_user_agreement.docx`) which they email to `corpora@metu.edu.tr` and run the Python script in `utils/process_underscores.py tdb -m add`. For more details, run `python utils/process_underscores.py -h`.
 
 
 ### Notes on relation classification
