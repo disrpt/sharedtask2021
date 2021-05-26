@@ -14,7 +14,7 @@ Syntactic dependency parses are made available using the CoreNLP conversion to U
 
 ### Obtaining the text
 
-Since the underlying Wall Street Journal text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release 2.0 of the Penn Treebank Wall Street Journal corpus (LDC95T7) and run the Python script `utils/process_underscores.py pdtb -m add`. Alternatively, the same files are found in PDTB 3.0 raw file directory, which can be used instead. For more details, run `python utils/process_underscores.py -h`. 
+Since the underlying Wall Street Journal text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release 2.0 of the Penn Treebank Wall Street Journal corpus (LDC95T7) and run the Python script in `utils/process_underscores.py pdtb -m add`. Alternatively, the same files are found in PDTB 3.0 raw file directory, which can be used instead. For more details, run `python utils/process_underscores.py -h`. 
 
 ### Notes on segmentation
 
