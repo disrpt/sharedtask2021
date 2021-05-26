@@ -18,7 +18,7 @@ Syntactic dependency parses are made available using the CoreNLP conversion to U
 
 ### Obtaining the text
 
-Since the underlying Xinhua news text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release of the Chinese Discourse Treebank 0.5 (LDC2014T21) and run the Python script `utils/process_underscores.py cdtb -m add`. For more details, run `python utils/process_underscores.py -h`. 
+Since the underlying Xinhua news text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release of the Chinese Discourse Treebank 0.5 (LDC2014T21) and run the Python script in `utils/process_underscores.py cdtb -m add`. For more details, run `python utils/process_underscores.py -h`. 
 
 ### Notes on segmentation
 
