@@ -2,6 +2,9 @@
 
 Repository for DISRPT2021 shared task Discourse Unit Segmentation, Connective Detection and Discourse Relation Classification.
 
+**Please check our [FAQ](https://sites.google.com/georgetown.edu/disrpt2021/faq?authuser=0) page on our main [website](
+https://sites.google.com/georgetown.edu/disrpt2021) for more information about the Shared Task, Participation, Evaluation etc.!**
+
 **Important:** The data in this repository is currently still in development and is likely to change before being finalized. It should only be used as a sample of the data formats used in the shared task. Stable training and development data ~~will be~~ was released in May 2021, and test data will be released in July 2021.
 
 ## Introduction
@@ -10,11 +13,9 @@ The [DISRPT 2021](https://sites.google.com/georgetown.edu/disrpt2021) shared tas
 
 We provide training, development and test datasets from all available languages and treebanks in the RST, SDRT and PDTB formalisms, using a uniform format. Because different corpora, languages and frameworks use different guidelines, the shared task is meant to promote design of flexible methods for dealing with various guidelines, and help to push forward the discussion of standards for computational approaches to discourse relations. We include data for evaluation with and without gold syntax, or otherwise using provided automatic parses for comparison to gold syntax data.
 
-https://sites.google.com/georgetown.edu/disrpt2021
-
 **Shared task participants are encouraged to follow this repository in case bugs are found and need to be fixed** 
 
-## Types of data
+## Types of Data
 
 The tasks are oriented towards finding the locus and type of discourse relations in texts, rather than predicting complete trees or graphs. For frameworks that segment text into non-overlapping spans covering each entire documents (RST and SDRT), the segmentation task corresponds to finding the starting point of each discourse unit. For PDTB-style datasets, the unit-identification task is to identify the spans of discourse connectives that explicitly identify the existence of a discourse relation. These tasks use the files ending in **.tok** and **.conllu** for the plain text and parsed scenarios respectively.
 
@@ -28,7 +29,7 @@ Note that some datasets contain **discontinuous** discourse units, which sometim
 
 Systems should be accompanied by a regular workshop paper in the ACL format, as described on the CODI workshop website. During submission, you will be asked to supply a URL from which your system can be downloaded. If your system does not download necessary resources by itself (e.g. word embeddings), these resources should be included at the download URL. The system download should include a README file describing exactly how paper results can be reproduced. Please do not supply pre-trained models, but rather instructions on how to train the system using the downloaded resources and **make sure to seed your model** to rule out random variation in results. For any questions regarding system submissions, please contact the organizers.
 
-## Important dates
+## Important Dates
 
   * ~~Mon, March 1, 2021 - shared task sample data release~~
   * ~~May, 2021 - training data release~~
