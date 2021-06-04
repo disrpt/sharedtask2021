@@ -20,13 +20,13 @@ pilot20	76-77	78-87	OK ,	I 'm not entirey sure the sequence was right ,	76-93	76
 pilot20	78-87	88-93	I 'm not entirey sure the sequence was right ,	but let 's try anyway .	76-93	76-93	OK , I 'm not entirey sure the sequence was right , but let 's try anyway .	OK , I 'm not entirey sure the sequence was right , but let 's try anyway .	1>2	Contrast	Contrast
 pilot20	94	95-99	Apologies	if I started too soon	94-99	94-99	Apologies if I started too soon	Apologies if I started too soon	1<2	Conditional	Conditional
 pilot20	95-99	100-105	if I started too soon	It 's all , good ,	94-99	100-110	Apologies if I started too soon	It 's all , good , let 's get rolling !	1>2	Acknowledgement	Acknowledgement
-pilot20	100-105	106-111	It 's all , good ,	let 's get rolling ! :)	100-110	100-110	It 's all , good , let 's get rolling !	It 's all , good , let 's get rolling !	1>2	Result	Result
-pilot20	106-111	112-123	let 's get rolling ! :)	Remember that the easiest way to play is to negotiate trades !	100-110	112-123	It 's all , good , let 's get rolling !	Remember that the easiest way to play is to negotiate trades !	1>2	Continuation	Continuation
+pilot20	100-105	106-111	It 's all , good ,	let 's get rolling ! :)	100-110	100-111	It 's all , good , let 's get rolling !	It 's all , good , let 's get rolling ! :)	1>2	Result	Result
+pilot20	106-111	112-123	let 's get rolling ! :)	Remember that the easiest way to play is to negotiate trades !	100-111	112-123	It 's all , good , let 's get rolling ! :)	Remember that the easiest way to play is to negotiate trades !	1>2	Continuation	Continuation
 pilot20	95-99	112-123	if I started too soon	Remember that the easiest way to play is to negotiate trades !	94-99	112-123	Apologies if I started too soon	Remember that the easiest way to play is to negotiate trades !	1>2	Continuation	Continuation
 pilot20	112-123	124-129	Remember that the easiest way to play is to negotiate trades !	Meaning , talking about them .	112-123	124-129	Remember that the easiest way to play is to negotiate trades !	Meaning , talking about them .	1>2	Elaboration	Elaboration
 pilot20	124-129	130	Meaning , talking about them .	:*)	124-129	130	Meaning , talking about them .	:*)	1>2	Comment	Comment
-pilot20	106-111	131	let 's get rolling ! :)	ok	100-110	131	It 's all , good , let 's get rolling !	ok	1>2	Acknowledgement	Acknowledgement
-pilot20	106-111	132	let 's get rolling ! :)	ok	100-110	132	It 's all , good , let 's get rolling !	ok	1>2	Acknowledgement	Acknowledgement
+pilot20	106-111	131	let 's get rolling ! :)	ok	100-111	131	It 's all , good , let 's get rolling ! :)	ok	1>2	Acknowledgement	Acknowledgement
+pilot20	106-111	132	let 's get rolling ! :)	ok	100-111	132	It 's all , good , let 's get rolling ! :)	ok	1>2	Acknowledgement	Acknowledgement
 pilot20	132	133-138	ok	so anybody wana trade sumthng ?	132	133-138	ok	so anybody wana trade sumthng ?	1>2	Result	Result
 pilot20	131	133-138	ok	so anybody wana trade sumthng ?	131	133-138	ok	so anybody wana trade sumthng ?	1>2	Result	Result
 pilot20	133-138	139-143	so anybody wana trade sumthng ?	I 'm OK just now	133-138	139-143	so anybody wana trade sumthng ?	I 'm OK just now	1>2	Question_answer_pair	Question_answer_pair
@@ -178,8 +178,8 @@ pilot20	794-795	796	sheeo ?	*sheep	794-795	796	sheeo ?	*sheep	1>2	Correction	Cor
 pilot20	794-795	797-800	sheeo ?	Not at the moment	794-795	797-800	sheeo ?	Not at the moment	1>2	Question_answer_pair	Question_answer_pair
 pilot20	797-800	801	Not at the moment	ok	797-800	801	Not at the moment	ok	1>2	Acknowledgement	Acknowledgement
 pilot20	794-795	802-807	sheeo ?	I 'll trade sheep for wood	794-795	802-807	sheeo ?	I 'll trade sheep for wood	1>2	Question_answer_pair	Question_answer_pair
-pilot20	808	809-811	sorry	um. . no	808-810	808-810	sorry um. .	sorry um. .	1<2	Comment	Comment
-pilot20	809-811	812-813	um. . no	no worries	808-810	812-813	sorry um. .	no worries	1>2	Acknowledgement	Acknowledgement
+pilot20	808	809-811	sorry	um. . no	808-810	808-811	sorry um. .	sorry um. . no	1<2	Comment	Comment
+pilot20	809-811	812-813	um. . no	no worries	808-811	812-813	sorry um. . no	no worries	1>2	Acknowledgement	Acknowledgement
 pilot20	814-816	817-820	sheep any1 ?	You need sheep ?	814-816	817-820	sheep any1 ?	You need sheep ?	1>2	Clarification_question	Clarification_question
 pilot20	817-820	821	You need sheep ?	ya	817-820	821	You need sheep ?	ya	1>2	Question_answer_pair	Question_answer_pair
 pilot20	817-820	822-826	You need sheep ?	Do you have ore ?	817-820	822-826	You need sheep ?	Do you have ore ?	1>2	Q_Elab	Q_Elab
@@ -554,9 +554,9 @@ s1-league3-game5	539-544	545-548	but no wheat to spare ,	could trade wood though
 s1-league3-game5	528-531	545-548	anyone want sheep ?	could trade wood though	528-531	539-552	anyone want sheep ?	but no wheat to spare , could trade wood though I 'd like sheep	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game5	553-558	559-562	anyone have clay or wheat ?	i have everything else	553-558	559-562	anyone have clay or wheat ?	i have everything else	1>2	Elaboration	Elaboration
 s1-league3-game5	553-558	563-565	anyone have clay or wheat ?	i got wheat	553-558	563-570	anyone have clay or wheat ?	i got wheat but you got wood ?	1>2	Question_answer_pair	Question_answer_pair
-s1-league3-game5	563-565	566-571	i got wheat	but you got wood ? ?	563-570	563-570	i got wheat but you got wood ?	i got wheat but you got wood ?	1>2	Contrast	Contrast
-s1-league3-game5	553-558	566-571	anyone have clay or wheat ?	but you got wood ? ?	553-558	563-570	anyone have clay or wheat ?	i got wheat but you got wood ?	1>2	Q_Elab	Q_Elab
-s1-league3-game5	566-571	572	but you got wood ? ?	yeah	563-570	572	i got wheat but you got wood ?	yeah	1>2	Question_answer_pair	Question_answer_pair
+s1-league3-game5	563-565	566-571	i got wheat	but you got wood ? ?	563-570	563-571	i got wheat but you got wood ?	i got wheat but you got wood ? ?	1>2	Contrast	Contrast
+s1-league3-game5	553-558	566-571	anyone have clay or wheat ?	but you got wood ? ?	553-558	563-571	anyone have clay or wheat ?	i got wheat but you got wood ? ?	1>2	Q_Elab	Q_Elab
+s1-league3-game5	566-571	572	but you got wood ? ?	yeah	563-571	572	i got wheat but you got wood ? ?	yeah	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game5	553-558	573	anyone have clay or wheat ?	sorry	553-558	573	anyone have clay or wheat ?	sorry	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game5	572	574-575	yeah	ok deal	572	574-575	yeah	ok deal	1>2	Acknowledgement	Acknowledgement
 s1-league3-game5	573	576-580	sorry	any clay , kieran ?	573	576-580	sorry	any clay , kieran ?	1>2	Q_Elab	Q_Elab
@@ -1042,7 +1042,7 @@ pilot20	750-759	763-767	How do I direct it to a specific person ?	you shuold see
 pilot20	772-774	775-777	the colourd boxes	Ah ha !	772-774	775-777	the colourd boxes	Ah ha !	1>2	Acknowledgement	Acknowledgement
 pilot20	768-771	775-777	click on my colour	Ah ha !	768-771	775-777	click on my colour	Ah ha !	1>2	Acknowledgement	Acknowledgement
 pilot20	763-767	775-777	you shuold see coloured boxes	Ah ha !	760-767	775-777	you can tick you shuold see coloured boxes	Ah ha !	1>2	Acknowledgement	Acknowledgement
-pilot20	802-807	809-811	I 'll trade sheep for wood	um. . no	802-807	808-810	I 'll trade sheep for wood	sorry um. .	1>2	Question_answer_pair	Question_answer_pair
+pilot20	802-807	809-811	I 'll trade sheep for wood	um. . no	802-807	808-811	I 'll trade sheep for wood	sorry um. . no	1>2	Question_answer_pair	Question_answer_pair
 pilot20	789-790	794-795	clay ?	sheeo ?	789-790	794-795	clay ?	sheeo ?	1>2	Result	Result
 pilot20	832-835	836-838	How about wood ?	i hav wod	832-835	836-838	How about wood ?	i hav wod	1>2	Question_answer_pair	Question_answer_pair
 pilot20	868-879	895-898	Trade 3 of any one resource for another frin the bank .	Oh hold on ,	868-879	885-898	Trade 3 of any one resource for another frin the bank .	I do n't even have a settlement on the port Oh hold on ,	1>2	Contrast	Contrast

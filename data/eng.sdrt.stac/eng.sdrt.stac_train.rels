@@ -453,7 +453,7 @@ pilot01	2812-2820	2821-2832	Wow , you are clay tastic , eh ?	yep , I speak to yo
 pilot01	2812-2820	2833-2845	Wow , you are clay tastic , eh ?	( make sure it 's not the bath clay he gives you )	2812-2820	2833-2845	Wow , you are clay tastic , eh ?	( make sure it 's not the bath clay he gives you )	1>2	Comment	Comment
 pilot01	2821-2832	2833-2845	yep , I speak to you from a bath of clay !	( make sure it 's not the bath clay he gives you )	2821-2832	2833-2845	yep , I speak to you from a bath of clay !	( make sure it 's not the bath clay he gives you )	1>2	Comment	Comment
 pilot01	2783-2791	2856-2862	Rennoc what can you offer me for wood ?	Dave ... wood for a wheat ?	2783-2791	2856-2862	Rennoc what can you offer me for wood ?	Dave ... wood for a wheat ?	1>2	Continuation	Continuation
-pilot01	2851-2855	2863-2870	eww . Fair point .	my bath has been demoted to a sink	2846-2852	2863-2870	Fresh clay if you please eww .	my bath has been demoted to a sink	1>2	Result	Result
+pilot01	2851-2855	2863-2870	eww . Fair point .	my bath has been demoted to a sink	2846-2855	2863-2870	Fresh clay if you please eww . Fair point .	my bath has been demoted to a sink	1>2	Result	Result
 pilot01	2856-2862	2871	Dave ... wood for a wheat ?	sure	2856-2862	2871	Dave ... wood for a wheat ?	sure	1>2	Question_answer_pair	Question_answer_pair
 pilot01	2871	2872-2873	sure	wrong player	2871	2872-2873	sure	wrong player	1>2	Comment	Comment
 pilot01	2872-2873	2874	wrong player	bah	2872-2873	2874	wrong player	bah	1>2	Acknowledgement	Acknowledgement
@@ -746,7 +746,7 @@ pilot02	706-712	718-719	no every other number just produces ressources	ok ,	706-
 pilot02	718-719	720-728	ok ,	so i do n't need to play special actions	718-728	718-728	ok , so i do n't need to play special actions	ok , so i do n't need to play special actions	1>2	Result	Result
 pilot02	720-728	729-739	so i do n't need to play special actions	anyone would like to receive a wood for an ore ?	718-728	729-739	ok , so i do n't need to play special actions	anyone would like to receive a wood for an ore ?	1>2	Continuation	Continuation
 pilot02	720-728	740-741	so i do n't need to play special actions	no ,	718-728	740-743	ok , so i do n't need to play special actions	no , dev .	1>2	Acknowledgement	Acknowledgement
-pilot02	740-741	742-750	no ,	dev . cards are the only other special action	740-743	740-743	no , dev .	no , dev .	1>2	Elaboration	Elaboration
+pilot02	740-741	742-750	no ,	dev . cards are the only other special action	740-743	740-750	no , dev .	no , dev . cards are the only other special action	1>2	Elaboration	Elaboration
 pilot02	729-739	751	anyone would like to receive a wood for an ore ?	no	729-739	751	anyone would like to receive a wood for an ore ?	no	1>2	Question_answer_pair	Question_answer_pair
 pilot02	729-739	752-753	anyone would like to receive a wood for an ore ?	yes please	729-739	752-753	anyone would like to receive a wood for an ore ?	yes please	1>2	Question_answer_pair	Question_answer_pair
 pilot02	751	754-760	no	i will take anyone 's sheep though	751	754-760	no	i will take anyone 's sheep though	1>2	Contrast	Contrast
@@ -1260,7 +1260,7 @@ pilot03	1630-1632	1639-1640	no worries .	Ok ,	1630-1632	1633-1640	no worries .	T
 pilot03	1630-1632	1633-1638	no worries .	Thanks for the heads up :)	1630-1632	1633-1640	no worries .	Thanks for the heads up :) Ok ,	1>2	Elaboration	Elaboration
 pilot03	1639-1640	1641	Ok ,	thanks	1633-1640	1641	Thanks for the heads up :) Ok ,	thanks	1>2	Acknowledgement	Acknowledgement
 pilot03	1642-1645	1652-1659	to walk to dog	I was supposed to be home at 5	1642-1650	1652-1663	to walk to dog but she can wait !	I was supposed to be home at 5 that 's cool ,	1<2	Explanation	Explanation
-pilot03	1646-1651	1652-1659	but she can wait ! !	I was supposed to be home at 5	1642-1650	1652-1663	to walk to dog but she can wait !	I was supposed to be home at 5 that 's cool ,	1<2	Contrast	Contrast
+pilot03	1646-1651	1652-1659	but she can wait ! !	I was supposed to be home at 5	1642-1651	1652-1663	to walk to dog but she can wait ! !	I was supposed to be home at 5 that 's cool ,	1<2	Contrast	Contrast
 pilot03	1664-1667	1668	noone has clay ?	Guessing	1664-1667	1668	noone has clay ?	Guessing	1<2	Continuation	Continuation
 pilot03	1668	1669	Guessing	nope	1668	1669	Guessing	nope	1>2	Question_answer_pair	Question_answer_pair
 pilot03	1668	1670	Guessing	nope	1668	1670	Guessing	nope	1>2	Question_answer_pair	Question_answer_pair
@@ -1436,7 +1436,7 @@ pilot03	2368-2375	2389	can you wrap up this game ? !	ok	2368-2375	2389-2394	can 
 pilot03	2389	2390-2394	ok	guys i have to go	2389-2394	2389-2394	ok guys i have to go	ok guys i have to go	1>2	Elaboration	Elaboration
 pilot03	2390-2394	2395-2399	guys i have to go	nice playing with you !	2389-2394	2395-2399	ok guys i have to go	nice playing with you !	1>2	Comment	Comment
 pilot03	2395-2399	2400	nice playing with you !	gg	2395-2399	2400-2402	nice playing with you !	gg thanks !	1>2	Comment	Comment
-pilot03	2395-2399	2401-2403	nice playing with you !	thanks ! !	2395-2399	2400-2402	nice playing with you !	gg thanks !	1>2	Acknowledgement	Acknowledgement
+pilot03	2395-2399	2401-2403	nice playing with you !	thanks ! !	2395-2399	2400-2403	nice playing with you !	gg thanks ! !	1>2	Acknowledgement	Acknowledgement
 pilot03	2400	2404-2406	gg	Nice playing :)	2400-2402	2404-2406	gg thanks !	Nice playing :)	1>2	Continuation	Continuation
 pilot03	2395-2399	2404-2406	nice playing with you !	Nice playing :)	2395-2399	2404-2406	nice playing with you !	Nice playing :)	1>2	Comment	Comment
 pilot03	2404-2406	2407-2410	Nice playing :)	and you all :D	2404-2406	2407-2410	Nice playing :)	and you all :D	1>2	Continuation	Continuation
@@ -2903,11 +2903,11 @@ s1-league1-game3	1624-1633	1634-1641	but I need to be at the cameo by 9.20	and t
 s1-league1-game3	1624-1633	1642-1644	but I need to be at the cameo by 9.20	darn competitions !	1624-1633	1642-1644	but I need to be at the cameo by 9.20	darn competitions !	1>2	Comment	Comment
 s1-league1-game3	1624-1633	1645-1653	but I need to be at the cameo by 9.20	i do n't think this will end by then	1624-1633	1645-1653	but I need to be at the cameo by 9.20	i do n't think this will end by then	1>2	Contrast	Contrast
 s1-league1-game3	1642-1644	1654-1666	darn competitions !	getting lucky in the wrong game at the wrong time , i am	1642-1644	1654-1666	darn competitions !	getting lucky in the wrong game at the wrong time , i am	1>2	Elaboration	Elaboration
-s1-league1-game3	1667-1673	1674-1684	we ca n't finish this game anways	well . if lj ca n't fix her current problem ,	1667-1675	1667-1675	we ca n't finish this game anways well .	we ca n't finish this game anways well .	1<2	Conditional	Conditional
-s1-league1-game3	1674-1684	1685-1693	well . if lj ca n't fix her current problem ,	we may have to call it a practice run	1667-1675	1685-1693	we ca n't finish this game anways well .	we may have to call it a practice run	1>2	Result	Result
+s1-league1-game3	1667-1673	1674-1684	we ca n't finish this game anways	well . if lj ca n't fix her current problem ,	1667-1675	1667-1684	we ca n't finish this game anways well .	we ca n't finish this game anways well . if lj ca n't fix her current problem ,	1<2	Conditional	Conditional
+s1-league1-game3	1674-1684	1685-1693	well . if lj ca n't fix her current problem ,	we may have to call it a practice run	1667-1684	1685-1693	we ca n't finish this game anways well . if lj ca n't fix her current problem ,	we may have to call it a practice run	1>2	Result	Result
 s1-league1-game3	1645-1653	1685-1693	i do n't think this will end by then	we may have to call it a practice run	1645-1653	1685-1693	i do n't think this will end by then	we may have to call it a practice run	1>2	Result	Result
 s1-league1-game3	1685-1693	1694-1702	we may have to call it a practice run	then we will have to replay the game ?	1685-1693	1694-1702	we may have to call it a practice run	then we will have to replay the game ?	1>2	Result	Result
-s1-league1-game3	1674-1684	1694-1702	well . if lj ca n't fix her current problem ,	then we will have to replay the game ?	1667-1675	1694-1702	we ca n't finish this game anways well .	then we will have to replay the game ?	1>2	Result	Result
+s1-league1-game3	1674-1684	1694-1702	well . if lj ca n't fix her current problem ,	then we will have to replay the game ?	1667-1684	1694-1702	we ca n't finish this game anways well . if lj ca n't fix her current problem ,	then we will have to replay the game ?	1>2	Result	Result
 s1-league1-game3	1694-1702	1703-1708	then we will have to replay the game ?	do it in earnest next week	1694-1702	1703-1708	then we will have to replay the game ?	do it in earnest next week	1>2	Elaboration	Elaboration
 s1-league1-game3	1703-1708	1709	do it in earnest next week	sure	1703-1708	1709	do it in earnest next week	sure	1>2	Acknowledgement	Acknowledgement
 s1-league1-game3	1572-1576	1710	your roll , laura !	sorry	1572-1576	1710	your roll , laura !	sorry	1>2	Comment	Comment
@@ -3204,7 +3204,7 @@ s1-league1-game3	2872-2877	2886-2888	thanks all , was fun !	well played lj	2872-
 s1-league1-game3	2883-2885	2886-2888	good game :)	well played lj	2878-2885	2886-2888	see you all next week good game :)	well played lj	1>2	Comment	Comment
 s1-league1-game3	2886-2888	2889-2890	well played lj	close run	2886-2888	2889-2890	well played lj	close run	1>2	Elaboration	Elaboration
 s1-league1-game3	2872-2877	2891-2894	thanks all , was fun !	am off now -	2872-2877	2891-2899	thanks all , was fun !	am off now - see you next week !	1>2	Continuation	Continuation
-s1-league1-game3	2891-2894	2895-2900	am off now -	see you next week ! !	2891-2899	2891-2899	am off now - see you next week !	am off now - see you next week !	1>2	Continuation	Continuation
+s1-league1-game3	2891-2894	2895-2900	am off now -	see you next week ! !	2891-2899	2891-2900	am off now - see you next week !	am off now - see you next week ! !	1>2	Continuation	Continuation
 s1-league1-game4	1-3	4-5	Hey LJ !	hi :D	1-3	4-5	Hey LJ !	hi :D	1>2	Acknowledgement	Acknowledgement
 s1-league1-game4	4-5	6-9	hi :D	how are you ?	4-5	6-9	hi :D	how are you ?	1>2	Continuation	Continuation
 s1-league1-game4	10-14	15-22	having the best midsummer evar	the longest day of rain of the year	10-14	15-22	having the best midsummer evar	the longest day of rain of the year	1>2	Elaboration	Elaboration
@@ -3589,10 +3589,10 @@ s1-league1-game4	2072-2075	2076-2084	well played tomas :D	can we start the next 
 s1-league1-game4	2057-2061	2076-2084	thank you . good game	can we start the next at half oast ?	2057-2061	2076-2084	thank you . good game	can we start the next at half oast ?	1>2	Clarification_question	Clarification_question
 s1-league1-game4	2072-2075	2085-2090	well played tomas :D	ok thank you for a game	2072-2075	2085-2097	well played tomas :D	ok thank you for a game and i will let william in .	1>2	Acknowledgement	Acknowledgement
 s1-league1-game4	2070-2071	2085-2090	well done	ok thank you for a game	2070-2071	2085-2097	well done	ok thank you for a game and i will let william in .	1>2	Acknowledgement	Acknowledgement
-s1-league1-game4	2076-2084	2091-2099	can we start the next at half oast ?	and i will let william in . bye !	2076-2084	2085-2097	can we start the next at half oast ?	ok thank you for a game and i will let william in .	1>2	Question_answer_pair	Question_answer_pair
+s1-league1-game4	2076-2084	2091-2099	can we start the next at half oast ?	and i will let william in . bye !	2076-2084	2085-2099	can we start the next at half oast ?	ok thank you for a game and i will let william in . bye !	1>2	Question_answer_pair	Question_answer_pair
 s1-league1-game4	2076-2084	2100-2103	can we start the next at half oast ?	i need a brew	2076-2084	2100-2103	can we start the next at half oast ?	i need a brew	1>2	Explanation	Explanation
-s1-league1-game4	2091-2099	2104-2106	and i will let william in . bye !	bye Tomas !	2085-2097	2104-2106	ok thank you for a game and i will let william in .	bye Tomas !	1>2	Acknowledgement	Acknowledgement
-s1-league1-game4	2091-2099	2107	and i will let william in . bye !	bye	2085-2097	2107	ok thank you for a game and i will let william in .	bye	1>2	Acknowledgement	Acknowledgement
+s1-league1-game4	2091-2099	2104-2106	and i will let william in . bye !	bye Tomas !	2085-2099	2104-2106	ok thank you for a game and i will let william in . bye !	bye Tomas !	1>2	Acknowledgement	Acknowledgement
+s1-league1-game4	2091-2099	2107	and i will let william in . bye !	bye	2085-2099	2107	ok thank you for a game and i will let william in . bye !	bye	1>2	Acknowledgement	Acknowledgement
 s1-league1-game4	2076-2084	2108-2116	can we start the next at half oast ?	I 'm happy to wait 7 ' , yes	2076-2084	2108-2116	can we start the next at half oast ?	I 'm happy to wait 7 ' , yes	1>2	Question_answer_pair	Question_answer_pair
 s1-league1-game4	2108-2116	2117-2123	I 'm happy to wait 7 ' , yes	although I have one by my knee	2108-2116	2117-2123	I 'm happy to wait 7 ' , yes	although I have one by my knee	1>2	Contrast	Contrast
 s1-league1-game4	2108-2116	2124	I 'm happy to wait 7 ' , yes	awesome	2108-2116	2124	I 'm happy to wait 7 ' , yes	awesome	1>2	Acknowledgement	Acknowledgement
@@ -4831,7 +4831,7 @@ s1-league3-game1	22-26	27-28	we can play without her	she said	22-28	22-28	we can
 s1-league3-game1	4-7	29	who else is playing	hi	4-7	29	who else is playing	hi	1>2	Acknowledgement	Acknowledgement
 s1-league3-game1	27-28	29	she said	hi	22-28	29	we can play without her she said	hi	1>2	Acknowledgement	Acknowledgement
 s1-league3-game1	27-28	30	she said	ok	22-28	30-33	we can play without her she said	ok we start ?	1>2	Acknowledgement	Acknowledgement
-s1-league3-game1	30	31-34	ok	we start ? ?	30-33	30-33	ok we start ?	ok we start ?	1>2	Clarification_question	Clarification_question
+s1-league3-game1	30	31-34	ok	we start ? ?	30-33	30-34	ok we start ?	ok we start ? ?	1>2	Clarification_question	Clarification_question
 s1-league3-game1	29	35	hi	hey	29	35	hi	hey	1>2	Acknowledgement	Acknowledgement
 s1-league3-game1	35	36-38	hey	good luck all	35	36-38	hey	good luck all	1>2	Narration	Narration
 s1-league3-game1	39-41	42-44	we can restart	if she appears	39-44	39-44	we can restart if she appears	we can restart if she appears	1<2	Conditional	Conditional
@@ -4915,7 +4915,7 @@ s1-league3-game1	440-446	447-451	can anyone trade me ore for sheep	sorry , only 
 s1-league3-game1	440-446	452-462	can anyone trade me ore for sheep	unless you have 2 woods , i cant trade my ore	440-446	452-462	can anyone trade me ore for sheep	unless you have 2 woods , i cant trade my ore	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game1	452-462	463-469	unless you have 2 woods , i cant trade my ore	how about 1 wood 1 sheep ?	452-462	463-469	unless you have 2 woods , i cant trade my ore	how about 1 wood 1 sheep ?	1>2	Q_Elab	Q_Elab
 s1-league3-game1	463-469	470-471	how about 1 wood 1 sheep ?	yah sure	463-469	470-471	how about 1 wood 1 sheep ?	yah sure	1>2	Question_answer_pair	Question_answer_pair
-s1-league3-game1	472-476	477-485	i got sheeps and wheat	does anyone got clay or wood ... . .	472-484	472-484	i got sheeps and wheat does anyone got clay or wood ... .	i got sheeps and wheat does anyone got clay or wood ... .	1<2	Elaboration	Elaboration
+s1-league3-game1	472-476	477-485	i got sheeps and wheat	does anyone got clay or wood ... . .	472-484	472-485	i got sheeps and wheat does anyone got clay or wood ... .	i got sheeps and wheat does anyone got clay or wood ... . .	1<2	Elaboration	Elaboration
 s1-league3-game1	486-490	491-494	i 'll trade for sheep	i have clay ,	486-494	486-494	i 'll trade for sheep i have clay ,	i 'll trade for sheep i have clay ,	1<2	Elaboration	Elaboration
 s1-league3-game1	491-494	495-497	i have clay ,	oh ok sure	486-494	495-497	i 'll trade for sheep i have clay ,	oh ok sure	1>2	Acknowledgement	Acknowledgement
 s1-league3-game1	498-501	502-505	trade for wheat ?	I have wood .	498-501	502-505	trade for wheat ?	I have wood .	1<2	Elaboration	Elaboration
@@ -5182,7 +5182,7 @@ s1-league3-game3	623	624	hallelujah	hehe	623	624	hallelujah	hehe	1>2	Comment	Com
 s1-league3-game3	624	625-631	hehe	anyone got some ore to trade ?	624	625-631	hehe	anyone got some ore to trade ?	1>2	Continuation	Continuation
 s1-league3-game3	625-631	632-634	anyone got some ore to trade ?	sorry , nope	625-631	632-634	anyone got some ore to trade ?	sorry , nope	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game3	625-631	635-638	anyone got some ore to trade ?	yes i have ...	625-631	635-642	anyone got some ore to trade ?	yes i have ... you got clay ?	1>2	Question_answer_pair	Question_answer_pair
-s1-league3-game3	639-643	644-647	you got clay ? ?	or wheat ? ?	635-642	644-647	yes i have ... you got clay ?	or wheat ? ?	1>2	Alternation	Alternation
+s1-league3-game3	639-643	644-647	you got clay ? ?	or wheat ? ?	635-643	644-647	yes i have ... you got clay ? ?	or wheat ? ?	1>2	Alternation	Alternation
 s1-league3-game3	648-651	652-658	plenty of wood though	nope do n't have either unfortunately ,	648-658	648-658	plenty of wood though nope do n't have either unfortunately ,	plenty of wood though nope do n't have either unfortunately ,	1<2	Contrast	Contrast
 s1-league3-game3	652-658	659-660	nope do n't have either unfortunately ,	oh ok	648-658	659-662	plenty of wood though nope do n't have either unfortunately ,	oh ok then nvm	1>2	Acknowledgement	Acknowledgement
 s1-league3-game3	659-660	661-662	oh ok	then nvm	659-662	659-662	oh ok then nvm	oh ok then nvm	1>2	Result	Result
@@ -5548,11 +5548,11 @@ s2-league1-game1	1252-1256	1257-1260	i have lots of wheat	do n't we all	1252-125
 s2-league1-game1	1238-1241	1261-1264	anything for wheat ?	you got clay ?	1238-1241	1261-1264	anything for wheat ?	you got clay ?	1>2	Q_Elab	Q_Elab
 s2-league1-game1	1265-1266	1267-1268	just wheat	nope ,	1265-1268	1265-1268	just wheat nope ,	just wheat nope ,	1<2	Contrast	Contrast
 s2-league1-game1	1238-1241	1269-1274	anything for wheat ?	I do n't need wheat ,	1238-1241	1269-1287	anything for wheat ?	I do n't need wheat , and I might not win on this turn ( or at all !	1>2	Question_answer_pair	Question_answer_pair
-s2-league1-game1	1269-1274	1275-1288	I do n't need wheat ,	and I might not win on this turn ( or at all ! )	1269-1287	1269-1287	I do n't need wheat , and I might not win on this turn ( or at all !	I do n't need wheat , and I might not win on this turn ( or at all !	1>2	Continuation	Continuation
-s2-league1-game1	1225-1237	1275-1288	methinks this game is dead and over unless CCG rolls a 7 :/	and I might not win on this turn ( or at all ! )	1225-1237	1269-1287	methinks this game is dead and over unless CCG rolls a 7 :/	I do n't need wheat , and I might not win on this turn ( or at all !	1>2	Comment	Comment
+s2-league1-game1	1269-1274	1275-1288	I do n't need wheat ,	and I might not win on this turn ( or at all ! )	1269-1287	1269-1288	I do n't need wheat , and I might not win on this turn ( or at all !	I do n't need wheat , and I might not win on this turn ( or at all ! )	1>2	Continuation	Continuation
+s2-league1-game1	1225-1237	1275-1288	methinks this game is dead and over unless CCG rolls a 7 :/	and I might not win on this turn ( or at all ! )	1225-1237	1269-1288	methinks this game is dead and over unless CCG rolls a 7 :/	I do n't need wheat , and I might not win on this turn ( or at all ! )	1>2	Comment	Comment
 s2-league1-game1	1265-1266	1289-1291	just wheat	ideal want sheep	1265-1268	1289-1291	just wheat nope ,	ideal want sheep	1>2	Elaboration	Elaboration
-s2-league1-game1	1275-1288	1292	and I might not win on this turn ( or at all ! )	true	1269-1287	1292-1299	I do n't need wheat , and I might not win on this turn ( or at all !	true but you are quite well placed ;)	1>2	Acknowledgement	Acknowledgement
-s2-league1-game1	1275-1288	1293-1299	and I might not win on this turn ( or at all ! )	but you are quite well placed ;)	1269-1287	1292-1299	I do n't need wheat , and I might not win on this turn ( or at all !	true but you are quite well placed ;)	1>2	Contrast	Contrast
+s2-league1-game1	1275-1288	1292	and I might not win on this turn ( or at all ! )	true	1269-1288	1292-1299	I do n't need wheat , and I might not win on this turn ( or at all ! )	true but you are quite well placed ;)	1>2	Acknowledgement	Acknowledgement
+s2-league1-game1	1275-1288	1293-1299	and I might not win on this turn ( or at all ! )	but you are quite well placed ;)	1269-1288	1292-1299	I do n't need wheat , and I might not win on this turn ( or at all ! )	true but you are quite well placed ;)	1>2	Contrast	Contrast
 s2-league1-game1	1292	1293-1299	true	but you are quite well placed ;)	1292-1299	1292-1299	true but you are quite well placed ;)	true but you are quite well placed ;)	1>2	Contrast	Contrast
 s2-league1-game1	1267-1268	1300-1305	nope ,	oh sorry , misunderstood you haha	1265-1268	1300-1305	just wheat nope ,	oh sorry , misunderstood you haha	1>2	Acknowledgement	Acknowledgement
 s2-league1-game1	1267-1268	1306-1308	nope ,	nah nothign ,	1265-1268	1306-1309	just wheat nope ,	nah nothign , sorry	1>2	Question_answer_pair	Question_answer_pair
@@ -6050,7 +6050,7 @@ s2-league4-game1	33-38	39-52	What about Sat or Sun aft	You 've mention that gene
 s2-league4-game1	33-38	53-57	What about Sat or Sun aft	Both are fine by me	33-52	53-57	What about Sat or Sun aft You 've mention that generally Friday and Saturday nights are n't good for .	Both are fine by me	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game1	53-57	58-65	Both are fine by me	Although during the week is better for me	53-57	58-65	Both are fine by me	Although during the week is better for me	1>2	Contrast	Contrast
 s2-league4-game1	58-65	66-70	Although during the week is better for me	Oh ... I see .	58-65	66-70	Although during the week is better for me	Oh ... I see .	1>2	Acknowledgement	Acknowledgement
-s2-league4-game1	71-78	79-84	as I work during the week . :)	keep it the same for now	71-77	78-84	as I work during the week .	:) keep it the same for now	1<2	Explanation	Explanation
+s2-league4-game1	71-78	79-84	as I work during the week . :)	keep it the same for now	71-84	78-84	as I work during the week . :) keep it the same for now	:) keep it the same for now	1<2	Explanation	Explanation
 s2-league4-game1	58-65	85-86	Although during the week is better for me	hi. .	58-65	85-86	Although during the week is better for me	hi. .	1>2	Acknowledgement	Acknowledgement
 s2-league4-game1	79-84	85-86	keep it the same for now	hi. .	78-84	85-86	:) keep it the same for now	hi. .	1>2	Acknowledgement	Acknowledgement
 s2-league4-game1	87-90	91-92	Ztime ! ! !	Yo ...	87-90	91-92	Ztime ! ! !	Yo ...	1<2	Elaboration	Elaboration
@@ -6213,7 +6213,7 @@ s2-league4-game1	823	824-825	sorry	no clay	823-825	823-825	sorry no clay	sorry n
 s2-league4-game1	824-825	826-833	no clay	I guess the robbers ensured a clay shortage	823-825	826-833	sorry no clay	I guess the robbers ensured a clay shortage	1>2	Explanation	Explanation
 s2-league4-game1	819-822	826-833	sorry ca n't help	I guess the robbers ensured a clay shortage	819-822	826-833	sorry ca n't help	I guess the robbers ensured a clay shortage	1>2	Explanation	Explanation
 s2-league4-game1	826-833	834-835	I guess the robbers ensured a clay shortage	Yep ...	826-833	834-835	I guess the robbers ensured a clay shortage	Yep ...	1>2	Acknowledgement	Acknowledgement
-s2-league4-game1	836-841	842-847	can someone roll 10 please ...	What happen to 10 ? ?	836-846	836-846	can someone roll 10 please ... What happen to 10 ?	can someone roll 10 please ... What happen to 10 ?	1<2	Elaboration	Elaboration
+s2-league4-game1	836-841	842-847	can someone roll 10 please ...	What happen to 10 ? ?	836-846	836-847	can someone roll 10 please ... What happen to 10 ?	can someone roll 10 please ... What happen to 10 ? ?	1<2	Elaboration	Elaboration
 s2-league4-game1	848-853	854-857	I 've got a yard full	anyone want sheep ...	848-857	848-857	I 've got a yard full anyone want sheep ...	I 've got a yard full anyone want sheep ...	1<2	Elaboration	Elaboration
 s2-league4-game1	858	859	thanks	no	858-859	858-859	thanks no	thanks no	1<2	Comment	Comment
 s2-league4-game1	859	860	no	ok	858-859	860	thanks no	ok	1>2	Acknowledgement	Acknowledgement
@@ -6245,8 +6245,8 @@ s2-league4-game1	941	942-943	thanks	Nice ...	941	942-943	thanks	Nice ...	1>2	Com
 s2-league4-game1	944-945	946-953	weird. .	I ca n't roll or click done ?	944-945	946-953	weird. .	I ca n't roll or click done ?	1>2	Elaboration	Elaboration
 s2-league4-game1	946-953	954	I ca n't roll or click done ?	strange	946-953	954	I ca n't roll or click done ?	strange	1>2	Comment	Comment
 s2-league4-game1	946-953	955-956	I ca n't roll or click done ?	hmmm ...	946-953	955-956	I ca n't roll or click done ?	hmmm ...	1>2	Comment	Comment
-s2-league4-game1	957-958	959-963	sorry ...	oh. . I see. .	957-960	957-960	sorry ... oh. .	sorry ... oh. .	1<2	Comment	Comment
-s2-league4-game1	959-963	964-971	oh. . I see. .	I was still playing my dev card. .	957-960	964-971	sorry ... oh. .	I was still playing my dev card. .	1>2	Explanation	Explanation
+s2-league4-game1	957-958	959-963	sorry ...	oh. . I see. .	957-960	957-963	sorry ... oh. .	sorry ... oh. . I see. .	1<2	Comment	Comment
+s2-league4-game1	959-963	964-971	oh. . I see. .	I was still playing my dev card. .	957-963	964-971	sorry ... oh. . I see. .	I was still playing my dev card. .	1>2	Explanation	Explanation
 s2-league4-game1	972-975	976	Clay for sheep ?	sorry	972-975	976	Clay for sheep ?	sorry	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game1	972-975	977-981	Clay for sheep ?	I 'll give you sheep	972-975	977-981	Clay for sheep ?	I 'll give you sheep	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game1	977-981	982	I 'll give you sheep	no	977-981	982-983	I 'll give you sheep	no thanks	1>2	Result	Result
@@ -6599,7 +6599,7 @@ s2-league4-game2	1023	1024-1028	hahahah	this is kinda weird ...	1023	1024-1028	h
 s2-league4-game2	1023	1029-1032	hahahah	Again ! ! !	1023	1029-1032	hahahah	Again ! ! !	1>2	Comment	Comment
 s2-league4-game2	1023	1033	hahahah	phew	1023	1033	hahahah	phew	1>2	Comment	Comment
 s2-league4-game2	1029-1032	1034-1035	Again ! ! !	yer. .	1029-1032	1034-1035	Again ! ! !	yer. .	1>2	Acknowledgement	Acknowledgement
-s2-league4-game2	1034-1035	1036-1046	yer. .	I know. . comes up a lot in these games. .	1034-1035	1036-1038	yer. .	I know. .	1>2	Elaboration	Elaboration
+s2-league4-game2	1034-1035	1036-1046	yer. .	I know. . comes up a lot in these games. .	1034-1035	1036-1046	yer. .	I know. . comes up a lot in these games. .	1>2	Elaboration	Elaboration
 s2-league4-game2	1023	1047-1050	hahahah	anyone want wheat ?	1023	1047-1050	hahahah	anyone want wheat ?	1>2	Continuation	Continuation
 s2-league4-game2	1047-1050	1051-1052	anyone want wheat ?	nope :(	1047-1050	1051-1052	anyone want wheat ?	nope :(	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game2	1047-1050	1053	anyone want wheat ?	Nop	1047-1050	1053	anyone want wheat ?	Nop	1>2	Question_answer_pair	Question_answer_pair
@@ -6678,8 +6678,8 @@ s2-league4-game2	1319-1320	1321-1325	*shakes fist*	dog eat dog world ...	1319-13
 s2-league4-game2	1319-1320	1326-1332	*shakes fist*	literally took bread from my mouth there	1319-1320	1326-1332	*shakes fist*	literally took bread from my mouth there	1>2	Elaboration	Elaboration
 s2-league4-game2	1321-1325	1326-1332	dog eat dog world ...	literally took bread from my mouth there	1321-1325	1326-1332	dog eat dog world ...	literally took bread from my mouth there	1>2	Elaboration	Elaboration
 s2-league4-game2	1312-1315	1333-1338	ha. . luck 7	hmm. . what to do. .	1312-1315	1333-1338	ha. . luck 7	hmm. . what to do. .	1>2	Narration	Narration
-s2-league4-game2	1339-1342	1343-1347	really ? ? ?	3 wheats ? ? ?	1339-1342	1343-1345	really ? ? ?	3 wheats ?	1<2	Continuation	Continuation
-s2-league4-game2	1343-1347	1348-1354	3 wheats ? ? ?	yer. . man. . too much. .	1343-1345	1348-1354	3 wheats ?	yer. . man. . too much. .	1>2	Question_answer_pair	Question_answer_pair
+s2-league4-game2	1339-1342	1343-1347	really ? ? ?	3 wheats ? ? ?	1339-1342	1343-1347	really ? ? ?	3 wheats ? ? ?	1<2	Continuation	Continuation
+s2-league4-game2	1343-1347	1348-1354	3 wheats ? ? ?	yer. . man. . too much. .	1343-1347	1348-1354	3 wheats ? ? ?	yer. . man. . too much. .	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game2	1348-1354	1355-1360	yer. . man. . too much. .	Pass it this way bro ...	1348-1354	1355-1360	yer. . man. . too much. .	Pass it this way bro ...	1>2	Result	Result
 s2-league4-game2	1361-1364	1365-1366	anyone want wheat ?	for ?	1361-1364	1365-1366	anyone want wheat ?	for ?	1>2	Q_Elab	Q_Elab
 s2-league4-game2	1365-1366	1367-1368	for ?	sheep ?	1365-1366	1367-1368	for ?	sheep ?	1>2	Question_answer_pair	Question_answer_pair
@@ -6702,8 +6702,8 @@ s2-league4-game2	1411-1414	1415-1419	for 2 Wheats ...	I do have wood .	1411-1419
 s2-league4-game2	1404-1410	1420	do you have clay or wood ?	ADDTIME	1404-1410	1420	do you have clay or wood ?	ADDTIME	1>2	Continuation	Continuation
 s2-league4-game2	1415-1419	1421	I do have wood .	OK	1411-1419	1421	for 2 Wheats ... I do have wood .	OK	1>2	Acknowledgement	Acknowledgement
 s2-league4-game2	1421	1422-1425	OK	You are winning ...	1421	1422-1432	OK	You are winning ... whay I 'm tranding with you ?	1>2	Contrast	Contrast
-s2-league4-game2	1422-1425	1426-1434	You are winning ...	whay I 'm tranding with you ? ? ?	1422-1432	1422-1432	You are winning ... whay I 'm tranding with you ?	You are winning ... whay I 'm tranding with you ?	1>2	Clarification_question	Clarification_question
-s2-league4-game2	1426-1434	1435-1436	whay I 'm tranding with you ? ? ?	Arrr. .	1422-1432	1435-1436	You are winning ... whay I 'm tranding with you ?	Arrr. .	1>2	Comment	Comment
+s2-league4-game2	1422-1425	1426-1434	You are winning ...	whay I 'm tranding with you ? ? ?	1422-1432	1422-1434	You are winning ... whay I 'm tranding with you ?	You are winning ... whay I 'm tranding with you ? ? ?	1>2	Clarification_question	Clarification_question
+s2-league4-game2	1426-1434	1435-1436	whay I 'm tranding with you ? ? ?	Arrr. .	1422-1434	1435-1436	You are winning ... whay I 'm tranding with you ? ? ?	Arrr. .	1>2	Comment	Comment
 s2-league4-game2	1435-1436	1437	Arrr. .	haha	1435-1436	1437	Arrr. .	haha	1>2	Acknowledgement	Acknowledgement
 s2-league4-game2	1438-1442	1443-1444	I 'm stuck here ...	na. .	1438-1444	1438-1444	I 'm stuck here ... na. .	I 'm stuck here ... na. .	1<2	Elaboration	Elaboration
 s2-league4-game2	1445-1448	1449-1454	i need a wheat	can give. . wood or sheep	1445-1448	1449-1454	i need a wheat	can give. . wood or sheep	1>2	Elaboration	Elaboration
@@ -7626,10 +7626,10 @@ s2-league5-game2	1017-1021	1022-1025	i will give a wood	anyne have wheat ?	1017-
 s2-league5-game2	1022-1025	1026-1031	anyne have wheat ?	I need the 1 I have	1017-1025	1026-1031	i will give a wood anyne have wheat ?	I need the 1 I have	1>2	Question_answer_pair	Question_answer_pair
 s2-league5-game2	1022-1025	1032	anyne have wheat ?	no	1017-1025	1032-1033	i will give a wood anyne have wheat ?	no sorry	1>2	Question_answer_pair	Question_answer_pair
 s2-league5-game2	1032	1033	no	sorry	1032-1033	1032-1033	no sorry	no sorry	1>2	Comment	Comment
-s2-league5-game2	1034-1035	1036-1038	baaaah .	what ! ?	1034-1035	1036-1037	baaaah .	what !	1<2	Comment	Comment
-s2-league5-game2	1036-1038	1039-1040	what ! ?	Ouch !	1036-1037	1039-1040	what !	Ouch !	1>2	Continuation	Continuation
-s2-league5-game2	1036-1038	1041-1042	what ! ?	what ?	1036-1037	1041-1042	what !	what ?	1>2	Clarification_question	Clarification_question
-s2-league5-game2	1036-1038	1043-1045	what ! ?	ya know ,	1036-1037	1043-1052	what !	ya know , I coulda just traded you that outright	1>2	Elaboration	Elaboration
+s2-league5-game2	1034-1035	1036-1038	baaaah .	what ! ?	1034-1035	1036-1038	baaaah .	what ! ?	1<2	Comment	Comment
+s2-league5-game2	1036-1038	1039-1040	what ! ?	Ouch !	1036-1038	1039-1040	what ! ?	Ouch !	1>2	Continuation	Continuation
+s2-league5-game2	1036-1038	1041-1042	what ! ?	what ?	1036-1038	1041-1042	what ! ?	what ?	1>2	Clarification_question	Clarification_question
+s2-league5-game2	1036-1038	1043-1045	what ! ?	ya know ,	1036-1038	1043-1052	what ! ?	ya know , I coulda just traded you that outright	1>2	Elaboration	Elaboration
 s2-league5-game2	1043-1045	1046-1052	ya know ,	I coulda just traded you that outright	1043-1052	1043-1052	ya know , I coulda just traded you that outright	ya know , I coulda just traded you that outright	1>2	Elaboration	Elaboration
 s2-league5-game2	1046-1052	1053-1061	I coulda just traded you that outright	instead of slaughtering all my poor innocent sheep !	1043-1052	1053-1061	ya know , I coulda just traded you that outright	instead of slaughtering all my poor innocent sheep !	1>2	Contrast	Contrast
 s2-league5-game2	1053-1061	1062-1064	instead of slaughtering all my poor innocent sheep !	and mine .	1053-1061	1062-1064	instead of slaughtering all my poor innocent sheep !	and mine .	1>2	Parallel	Parallel
@@ -8123,8 +8123,8 @@ s2-league5-game4	656-657	658	no thanks	hardball	656-657	658	no thanks	hardball	1
 s2-league5-game4	639-642	659-661	anyne have brick ?	anyone have sheep	639-642	659-661	anyne have brick ?	anyone have sheep	1>2	Continuation	Continuation
 s2-league5-game4	659-661	662-665	anyone have sheep	I 'm cleaned out	659-661	662-665	anyone have sheep	I 'm cleaned out	1>2	Question_answer_pair	Question_answer_pair
 s2-league5-game4	666-667	668-671	strange ,	I moved the robber	666-680	666-680	strange , I moved the robber and did n't get to steal anything ... .	strange , I moved the robber and did n't get to steal anything ... .	1>2	Comment	Comment
-s2-league5-game4	672-681	682-684	and did n't get to steal anything ... . ?	that 's weird	666-680	682-684	strange , I moved the robber and did n't get to steal anything ... .	that 's weird	1>2	Acknowledgement	Acknowledgement
-s2-league5-game4	672-681	685-688	and did n't get to steal anything ... . ?	you stole a wood	666-680	685-688	strange , I moved the robber and did n't get to steal anything ... .	you stole a wood	1>2	Correction	Correction
+s2-league5-game4	672-681	682-684	and did n't get to steal anything ... . ?	that 's weird	666-681	682-684	strange , I moved the robber and did n't get to steal anything ... . ?	that 's weird	1>2	Acknowledgement	Acknowledgement
+s2-league5-game4	672-681	685-688	and did n't get to steal anything ... . ?	you stole a wood	666-681	685-688	strange , I moved the robber and did n't get to steal anything ... . ?	you stole a wood	1>2	Correction	Correction
 s2-league5-game4	685-688	689-690	you stole a wood	from me	685-688	689-690	you stole a wood	from me	1>2	Elaboration	Elaboration
 s2-league5-game4	689-690	691-693	from me	I lost it	689-690	691-693	from me	I lost it	1>2	Elaboration	Elaboration
 s2-league5-game4	691-693	694-695	I lost it	oh ,	691-693	694-699	I lost it	oh , it did it automatically	1>2	Acknowledgement	Acknowledgement
@@ -8382,7 +8382,7 @@ s2-league5-game5	484-496	497-499	considering ghetto has 4 points on ore with the
 s2-league5-game5	497-499	500-502	it just seems	I guess ,	484-502	484-502	considering ghetto has 4 points on ore with the port and 2 soldiers it just seems I guess ,	considering ghetto has 4 points on ore with the port and 2 soldiers it just seems I guess ,	1<2	Continuation	Continuation
 s2-league5-game5	497-499	503-504	it just seems	a waste	484-502	503-504	considering ghetto has 4 points on ore with the port and 2 soldiers it just seems I guess ,	a waste	1>2	Continuation	Continuation
 s2-league5-game5	500-502	505-511	I guess ,	well you 're in the lead now	484-502	505-515	considering ghetto has 4 points on ore with the port and 2 soldiers it just seems I guess ,	well you 're in the lead now so most threatening !	1>2	Contrast	Contrast
-s2-league5-game5	505-511	512-516	well you 're in the lead now	so most threatening ! :P	505-515	505-515	well you 're in the lead now so most threatening !	well you 're in the lead now so most threatening !	1>2	Result	Result
+s2-league5-game5	505-511	512-516	well you 're in the lead now	so most threatening ! :P	505-515	505-516	well you 're in the lead now so most threatening !	well you 're in the lead now so most threatening ! :P	1>2	Result	Result
 s2-league5-game5	505-511	517	well you 're in the lead now	ugh	505-515	517	well you 're in the lead now so most threatening !	ugh	1>2	Acknowledgement	Acknowledgement
 s2-league5-game5	517	518-520	ugh	double ugh .	517	518-520	ugh	double ugh .	1>2	Acknowledgement	Acknowledgement
 s2-league5-game5	521-527	528-532	does anyone have sheep or clay ?	I can offer a wheat	521-527	528-532	does anyone have sheep or clay ?	I can offer a wheat	1>2	Elaboration	Elaboration
@@ -8409,8 +8409,8 @@ s2-league5-game5	625	628-629	wow	yeah .	625	628-629	wow	yeah .	1>2	Acknowledgeme
 s2-league5-game5	622-624	628-629	a heavy haul	yeah .	622-624	628-629	a heavy haul	yeah .	1>2	Acknowledgement	Acknowledgement
 s2-league5-game5	628-629	630-637	yeah .	i got nothing to do now though .	628-629	630-637	yeah .	i got nothing to do now though .	1>2	Contrast	Contrast
 s2-league5-game5	630-637	638-639	i got nothing to do now though .	ok ,	630-637	638-644	i got nothing to do now though .	ok , give it back then .	1>2	Acknowledgement	Acknowledgement
-s2-league5-game5	638-639	640-645	ok ,	give it back then . :)	638-644	638-644	ok , give it back then .	ok , give it back then .	1>2	Result	Result
-s2-league5-game5	640-645	646-647	give it back then . :)	gramos ?	638-644	646-647	ok , give it back then .	gramos ?	1>2	Clarification_question	Clarification_question
+s2-league5-game5	638-639	640-645	ok ,	give it back then . :)	638-644	638-645	ok , give it back then .	ok , give it back then . :)	1>2	Result	Result
+s2-league5-game5	640-645	646-647	give it back then . :)	gramos ?	638-645	646-647	ok , give it back then . :)	gramos ?	1>2	Clarification_question	Clarification_question
 s2-league5-game5	648-651	652-655	c'mon , raef ,	get that point already	648-655	648-655	c'mon , raef , get that point already	c'mon , raef , get that point already	1>2	Continuation	Continuation
 s2-league5-game5	656	657-664	lol	unless yo usteal longest road from him .	656	657-664	lol	unless yo usteal longest road from him .	1>2	Alternation	Alternation
 s2-league5-game5	656	665-668	lol	that was the game	656	665-668	lol	that was the game	1>2	Explanation	Explanation
@@ -8752,7 +8752,7 @@ s2-league5-game4	391-394	395-397	go for it .	anyone more ?	391-394	395-397	go fo
 s2-league5-game4	304	305-310	yes	if you giv eme wood ,	299-310	299-310	I can give you wheat yes if you giv eme wood ,	I can give you wheat yes if you giv eme wood ,	1>2	Elaboration	Elaboration
 s2-league5-game4	562-565	567-569	i have a wood	if in it	562-565	566-569	i have a wood	brick if in it	1>2	Elaboration	Elaboration
 s2-league5-game4	917	918-925	ok	i 'll trade 1 wood for a sheep	917	918-925	ok	i 'll trade 1 wood for a sheep	1>2	Result	Result
-s2-league5-game4	668-671	672-681	I moved the robber	and did n't get to steal anything ... . ?	666-680	666-680	strange , I moved the robber and did n't get to steal anything ... .	strange , I moved the robber and did n't get to steal anything ... .	1>2	Continuation	Continuation
+s2-league5-game4	668-671	672-681	I moved the robber	and did n't get to steal anything ... . ?	666-680	666-681	strange , I moved the robber and did n't get to steal anything ... .	strange , I moved the robber and did n't get to steal anything ... . ?	1>2	Continuation	Continuation
 s2-league5-game4	1023-1028	1029-1031	anyone trading clay or wood ?	wood , yes	1023-1028	1029-1031	anyone trading clay or wood ?	wood , yes	1>2	Question_answer_pair	Question_answer_pair
 pilot04	3-4	8-10	Hello Nancy	Hi Nancy ,	3-4	6-10	Hello Nancy	Hi Skinnylinny Hi Nancy ,	1>2	Acknowledgement	Acknowledgement
 pilot04	5	8-10	Hi	Hi Nancy ,	5	6-10	Hi	Hi Skinnylinny Hi Nancy ,	1>2	Acknowledgement	Acknowledgement
@@ -8856,8 +8856,8 @@ pilot01	2901-2905	2914-2917	do n't give tomm wheat	if he gets wheat	2901-2905	29
 pilot01	2906-2907	2914-2917	sorry tomm	if he gets wheat	2906-2907	2908-2917	sorry tomm	but he can win the game if he gets wheat	1>2	Contrast	Contrast
 pilot01	2990-2994	2995	Got any wheat ? :P	nooooooo	2990-2994	2995	Got any wheat ? :P	nooooooo	1>2	Comment	Comment
 pilot01	2996-3001	3011-3017	do n't give him wheat ,	also , if you get the robber	2996-3017	2996-3017	do n't give him wheat , put it on that wheat tile in the middle also , if you get the robber	do n't give him wheat , put it on that wheat tile in the middle also , if you get the robber	1>2	Continuation	Continuation
-pilot01	2833-2845	2851-2855	( make sure it 's not the bath clay he gives you )	eww . Fair point .	2833-2845	2846-2852	( make sure it 's not the bath clay he gives you )	Fresh clay if you please eww .	1>2	Comment	Comment
-pilot01	2821-2832	2851-2855	yep , I speak to you from a bath of clay !	eww . Fair point .	2821-2832	2846-2852	yep , I speak to you from a bath of clay !	Fresh clay if you please eww .	1>2	Comment	Comment
+pilot01	2833-2845	2851-2855	( make sure it 's not the bath clay he gives you )	eww . Fair point .	2833-2845	2846-2855	( make sure it 's not the bath clay he gives you )	Fresh clay if you please eww . Fair point .	1>2	Comment	Comment
+pilot01	2821-2832	2851-2855	yep , I speak to you from a bath of clay !	eww . Fair point .	2821-2832	2846-2855	yep , I speak to you from a bath of clay !	Fresh clay if you please eww . Fair point .	1>2	Comment	Comment
 pilot01	3333-3341	3363-3369	Oh ... I ca n't move the robber ?	it says null needs to discard ,	3333-3341	3357-3369	Oh ... I ca n't move the robber ?	I think it 's a bug it says null needs to discard ,	1>2	Explanation	Explanation
 pilot01	3049-3055	3100-3103	Settlement is worth 2 , city 3	I 'm confused ...	3049-3055	3100-3103	Settlement is worth 2 , city 3	I 'm confused ...	1>2	Contrast	Contrast
 pilot01	3108-3114	3131-3135	I 'll add time shall I ?	if we dont add time	3108-3114	3131-3135	I 'll add time shall I ?	if we dont add time	1>2	Question_answer_pair	Question_answer_pair
@@ -9163,8 +9163,8 @@ s1-league1-game3	1341-1344	1345-1348	ore and wood ?	i have 2 clay	1341-1344	1345
 s1-league1-game3	1414-1415	1420-1424	william ?	oh , sorry no .	1414-1415	1416-1424	william ?	too low right now oh , sorry no .	1>2	Question_answer_pair	Question_answer_pair
 s1-league1-game3	1517-1519	1551-1555	I 'm UK	I 'm from Somerset ,	1517-1519	1542-1555	I 'm UK	near Cheddar ( where teh cheese is from ) I 'm from Somerset ,	1>2	Elaboration	Elaboration
 s1-league1-game3	1612-1619	1624-1633	let 's give her a couple of mins	but I need to be at the cameo by 9.20	1612-1619	1624-1633	let 's give her a couple of mins	but I need to be at the cameo by 9.20	1>2	Contrast	Contrast
-s1-league1-game3	1645-1653	1674-1684	i do n't think this will end by then	well . if lj ca n't fix her current problem ,	1645-1653	1667-1675	i do n't think this will end by then	we ca n't finish this game anways well .	1>2	Continuation	Continuation
-s1-league1-game3	1620-1623	1674-1684	to try and reconnect	well . if lj ca n't fix her current problem ,	1620-1623	1667-1675	to try and reconnect	we ca n't finish this game anways well .	1>2	Contrast	Contrast
+s1-league1-game3	1645-1653	1674-1684	i do n't think this will end by then	well . if lj ca n't fix her current problem ,	1645-1653	1667-1684	i do n't think this will end by then	we ca n't finish this game anways well . if lj ca n't fix her current problem ,	1>2	Continuation	Continuation
+s1-league1-game3	1620-1623	1674-1684	to try and reconnect	well . if lj ca n't fix her current problem ,	1620-1623	1667-1684	to try and reconnect	we ca n't finish this game anways well . if lj ca n't fix her current problem ,	1>2	Contrast	Contrast
 s1-league1-game3	1739-1746	1754-1760	as I need to leave quite soon :/	I can offer about 10mins more ,	1734-1746	1747-1760	we were negotiating a truce as I need to leave quite soon :/	we 'll see where we 're at I can offer about 10mins more ,	1>2	Elaboration	Elaboration
 s1-league1-game3	1767-1774	1779-1781	anyone have wheat or clay for sheep ?	afraid not :(	1767-1774	1779-1781	anyone have wheat or clay for sheep ?	afraid not :(	1>2	Question_answer_pair	Question_answer_pair
 s1-league1-game3	1876	1877-1881	ok	got the wrong guy !	1876	1877-1881	ok	got the wrong guy !	1>2	Correction	Correction
@@ -9312,8 +9312,8 @@ s1-league3-game1	126-134	149-150	does any one have any wheat to trade ?	i have	1
 s1-league3-game1	185-190	191	how long has it been ,	oh	185-190	191	how long has it been ,	oh	1>2	Correction	Correction
 s1-league3-game1	232-239	240-241	i have lots of ore and sheep ,	i have	232-239	240-241	i have lots of ore and sheep ,	i have	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game1	319-322	336-340	i have clay ,	i 've got clay ,	319-327	334-340	i have clay , do you have wheat ?	not wood i 've got clay ,	1>2	Elaboration	Elaboration
-s1-league3-game1	477-485	491-494	does anyone got clay or wood ... . .	i have clay ,	472-484	486-494	i got sheeps and wheat does anyone got clay or wood ... .	i 'll trade for sheep i have clay ,	1>2	Question_answer_pair	Question_answer_pair
-s1-league3-game1	477-485	502-505	does anyone got clay or wood ... . .	I have wood .	472-484	502-505	i got sheeps and wheat does anyone got clay or wood ... .	I have wood .	1>2	Question_answer_pair	Question_answer_pair
+s1-league3-game1	477-485	491-494	does anyone got clay or wood ... . .	i have clay ,	472-485	486-494	i got sheeps and wheat does anyone got clay or wood ... . .	i 'll trade for sheep i have clay ,	1>2	Question_answer_pair	Question_answer_pair
+s1-league3-game1	477-485	502-505	does anyone got clay or wood ... . .	I have wood .	472-485	502-505	i got sheeps and wheat does anyone got clay or wood ... . .	I have wood .	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game1	577	578-584	thanks	does anyone actually have any ore ?	577	578-584	thanks	does anyone actually have any ore ?	1>2	Continuation	Continuation
 s1-league3-game1	578-584	599	does anyone actually have any ore ?	no	578-584	592-599	does anyone actually have any ore ?	since 9 and 12 are seldom seen no	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game2	55-60	67-69	I 've just had an e-mail	" ehh sry	52-60	61-69	back from yiin I 've just had an e-mail	i lost track of time " " ehh sry	1>2	Elaboration	Elaboration
@@ -9341,9 +9341,9 @@ s1-league3-game3	528-531	545-547	anyone got sheep ?	i got one	528-531	545-547	an
 s1-league3-game3	476-482	495-502	if only someone can roll a 3	i 'm guessing nobody has any clay ?	476-482	495-502	if only someone can roll a 3	i 'm guessing nobody has any clay ?	1>2	Continuation	Continuation
 s1-league3-game3	605-608	617	anyone have sheep ?	yes	605-608	612-617	anyone have sheep ?	i have lot of sheeps yes	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game3	605-608	621	anyone have sheep ?	yeah	605-608	618-621	anyone have sheep ?	can do that yeah	1>2	Question_answer_pair	Question_answer_pair
-s1-league3-game3	625-631	639-643	anyone got some ore to trade ?	you got clay ? ?	625-631	635-642	anyone got some ore to trade ?	yes i have ... you got clay ?	1>2	Q_Elab	Q_Elab
-s1-league3-game3	635-638	639-643	yes i have ...	you got clay ? ?	635-642	635-642	yes i have ... you got clay ?	yes i have ... you got clay ?	1>2	Continuation	Continuation
-s1-league3-game3	639-643	652-658	you got clay ? ?	nope do n't have either unfortunately ,	635-642	648-658	yes i have ... you got clay ?	plenty of wood though nope do n't have either unfortunately ,	1>2	Question_answer_pair	Question_answer_pair
+s1-league3-game3	625-631	639-643	anyone got some ore to trade ?	you got clay ? ?	625-631	635-643	anyone got some ore to trade ?	yes i have ... you got clay ? ?	1>2	Q_Elab	Q_Elab
+s1-league3-game3	635-638	639-643	yes i have ...	you got clay ? ?	635-642	635-643	yes i have ... you got clay ?	yes i have ... you got clay ? ?	1>2	Continuation	Continuation
+s1-league3-game3	639-643	652-658	you got clay ? ?	nope do n't have either unfortunately ,	635-643	648-658	yes i have ... you got clay ? ?	plenty of wood though nope do n't have either unfortunately ,	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game3	663-670	674-678	Gaeilgeoir , feel like trading that ore ?	If you have sheep ,	663-670	674-678	Gaeilgeoir , feel like trading that ore ?	If you have sheep ,	1>2	Question_answer_pair	Question_answer_pair
 s1-league3-game3	719-721	729-730	I do !	if so	719-721	722-730	I do !	i 'll trad with both of you if so	1>2	Result	Result
 s1-league3-game3	713-718	729-730	do you have sheep yiin ?	if so	713-718	722-730	do you have sheep yiin ?	i 'll trad with both of you if so	1>2	Result	Result
@@ -9425,13 +9425,13 @@ s2-league4-game1	608-617	619-620	anyone want to give me a clay or ore ?	Clay. .	
 s2-league4-game1	496-505	518	So ztime , you ca n't offer out trades ?	nope	496-505	518	So ztime , you ca n't offer out trades ?	nope	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game1	769	776-780	:-)	anyone want a sheep. .	769	776-780	:-)	anyone want a sheep. .	1>2	Continuation	Continuation
 s2-league4-game1	812-815	824-825	I need a clay	no clay	812-815	823-825	I need a clay	sorry no clay	1>2	Question_answer_pair	Question_answer_pair
-s2-league4-game1	826-833	842-847	I guess the robbers ensured a clay shortage	What happen to 10 ? ?	826-833	836-846	I guess the robbers ensured a clay shortage	can someone roll 10 please ... What happen to 10 ?	1>2	Continuation	Continuation
+s2-league4-game1	826-833	842-847	I guess the robbers ensured a clay shortage	What happen to 10 ? ?	826-833	836-847	I guess the robbers ensured a clay shortage	can someone roll 10 please ... What happen to 10 ? ?	1>2	Continuation	Continuation
 s2-league4-game1	854-857	859	anyone want sheep ...	no	848-857	858-859	I 've got a yard full anyone want sheep ...	thanks no	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game1	869-876	877-879	unless they come with other stuff free :p	just wool ...	869-876	877-879	unless they come with other stuff free :p	just wool ...	1>2	Elaboration	Elaboration
 s2-league4-game1	877-879	884-885	just wool ...	sad times	877-879	884-885	just wool ...	sad times	1>2	Comment	Comment
 s2-league4-game1	902-909	911-913	I couls give you ore for that .	2 for 2	902-909	911-913	I couls give you ore for that .	2 for 2	1>2	Q_Elab	Q_Elab
 s2-league4-game1	891-894	911-913	I 'd like wheat	2 for 2	891-894	911-913	I 'd like wheat	2 for 2	1>2	Q_Elab	Q_Elab
-s2-league4-game1	946-953	959-963	I ca n't roll or click done ?	oh. . I see. .	946-953	957-960	I ca n't roll or click done ?	sorry ... oh. .	1>2	Correction	Correction
+s2-league4-game1	946-953	959-963	I ca n't roll or click done ?	oh. . I see. .	946-953	957-963	I ca n't roll or click done ?	sorry ... oh. . I see. .	1>2	Correction	Correction
 s2-league4-game1	1133-1137	1146-1148	I 'd like wheat ?	Same here ...	1133-1137	1142-1148	I 'd like wheat ?	so ca n't trade Same here ...	1>2	Question_answer_pair	Question_answer_pair
 s2-league4-game1	1141	1146-1148	soz	Same here ...	1141	1142-1148	soz	so ca n't trade Same here ...	1>2	Parallel	Parallel
 s2-league4-game1	1149-1162	1165-1166	I 'm guessing I 'm out of luck on the wood front too ?	yep ...	1149-1162	1165-1166	I 'm guessing I 'm out of luck on the wood front too ?	yep ...	1>2	Question_answer_pair	Question_answer_pair
