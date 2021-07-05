@@ -1,4 +1,4 @@
-#newdoc id = news_38_06-07-1999
+# newdoc id = news_38_06-07-1999
 # sent_id = news_38_06-07-1999-1
 # text = Tonneaux à Montreux - Vieux : trois blessés graves
 1	Tonneaux	tonneau	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
@@ -258,7 +258,7 @@
 15	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 
-#newdoc id = news_39_04-05-2002
+# newdoc id = news_39_04-05-2002
 # sent_id = news_39_04-05-2002-1
 # text = Les anniversaires d' avril à la maison Belot
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -666,7 +666,7 @@
 34	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
 
-#newdoc id = news_36_24-08-1999
+# newdoc id = news_36_24-08-1999
 # sent_id = news_36_24-08-1999-1
 # text = Tapage rural
 1	Tapage	tapage	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -968,7 +968,7 @@
 12	?	?	PUNCT	PUNCT	_	1	punct	_	_
 
 
-#newdoc id = wik1_31_02-04-2006
+# newdoc id = wik1_31_02-04-2006
 # sent_id = wik1_31_02-04-2006-1
 # text = Serment du Jeu de paume
 1	Serment	serment	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -1974,7 +1974,7 @@
 24	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 
-#newdoc id = wik1_30_02-04-2006
+# newdoc id = wik1_30_02-04-2006
 # sent_id = wik1_30_02-04-2006-1
 # text = Black Widow
 1	Black	black	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -2778,7 +2778,7 @@
 17	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = wik1_32_02-04-2006
+# newdoc id = wik1_32_02-04-2006
 # sent_id = wik1_32_02-04-2006-1
 # text = Serments de Strasbourg
 1	Serments	serment	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
@@ -3015,7 +3015,7 @@
 12	)	)	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = news_37_12-06-1999
+# newdoc id = news_37_12-06-1999
 # sent_id = news_37_12-06-1999-1
 # text = Pablo Correa portera encore le maillot de l' ASNL la saison prochaine .
 1	Pablo	Pablo	PROPN	PROPN	Gender=Masc|Number=Sing	3	nsubj	_	BeginSeg=Yes
@@ -3455,7 +3455,7 @@
 28	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
 
-#newdoc id = wik1_33_02-04-2006
+# newdoc id = wik1_33_02-04-2006
 # sent_id = wik1_33_02-04-2006-1
 # text = Biyouna Biyouna est une chanteuse , danseuse , actrice algérienne née en 1954 dans le Quartier de Belcourt ( Alger ) Habitée très tôt par la passion du chant , elle fait partie de plusieurs troupes , d’ abord celle de Fadela Dziria où elle assure les chœurs en jouant du tambourin , puis une autre qu’ elle dirige avec sa complice Flifla , enfin la sienne où elle est la chanteuse principale et devient une animatrice réputée des fêtes de mariages .
 1	Biyouna	biyouna	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -4195,7 +4195,7 @@
 113	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 
-#newdoc id = ling_leon_contenuDinformation
+# newdoc id = ling_leon_contenuDinformation
 # sent_id = ling_leon_contenuDinformation-1
 # text = En fait , on peut faire l’ hypothèse que contenu d’ information vient de Guiraud , une des sources revendiquées par Martinet .
 1	En	en	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -4648,7 +4648,7 @@
 16	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = geop_3_spatiaux
+# newdoc id = geop_3_spatiaux
 # sent_id = geop_3_spatiaux-1
 # text = Les programmes spatiaux militaires pour 2003 .
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -5092,7 +5092,7 @@
 10	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 
-#newdoc id = wik2_vinDeChampagne_vinification
+# newdoc id = wik2_vinDeChampagne_vinification
 # sent_id = wik2_vinDeChampagne_vinification-1
 # text = Vinification .
 1	Vinification	vinification	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes

@@ -1,4 +1,4 @@
-#newdoc id = news_28_21-01-2003
+# newdoc id = news_28_21-01-2003
 # sent_id = news_28_21-01-2003-1
 # text = Milutinovic devant le TPI .
 1	Milutinovic	Milutinovic	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
@@ -175,7 +175,7 @@
 49	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 
-#newdoc id = news_20_21-01-2003
+# newdoc id = news_20_21-01-2003
 # sent_id = news_20_21-01-2003-1
 # text = Rixe à Montbéliard : un Belfortain ivre interpellé .
 1	Rixe	rixe	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -419,7 +419,7 @@
 22	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
 
-#newdoc id = news_13_18-06-1999
+# newdoc id = news_13_18-06-1999
 # sent_id = news_13_18-06-1999-1
 # text = Le Petit Prince au programme des élèves de Jules - Romains
 1	Le	le	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
@@ -793,7 +793,7 @@
 1	»	»	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
 
 
-#newdoc id = wik1_07_02-04-2006
+# newdoc id = wik1_07_02-04-2006
 # sent_id = wik1_07_02-04-2006-1
 # text = Omertà ( loi du silence )
 1	Omertà	Omertà	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
@@ -915,7 +915,7 @@
 26	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 
-#newdoc id = wik1_12_02-04-2006
+# newdoc id = wik1_12_02-04-2006
 # sent_id = wik1_12_02-04-2006-1
 # text = Amorrites
 1	Amorrites	amorrite	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
@@ -1238,7 +1238,7 @@
 71	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 
-#newdoc id = wik1_08_02-04-2006
+# newdoc id = wik1_08_02-04-2006
 # sent_id = wik1_08_02-04-2006-1
 # text = Panchromatique
 1	Panchromatique	panchromatique	ADV	ADV	PronType=Int	0	root	_	BeginSeg=Yes
@@ -1362,7 +1362,7 @@
 52	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 
-#newdoc id = wik1_05_1_02-04-2006
+# newdoc id = wik1_05_1_02-04-2006
 # sent_id = wik1_05_1_02-04-2006-1
 # text = Fin de l' Empire
 1	Fin	fin	NOUN	NOUN	Number=Sing	0	root	_	BeginSeg=Yes
@@ -1698,7 +1698,7 @@
 31	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 
-#newdoc id = news_25_16-10-2002
+# newdoc id = news_25_16-10-2002
 # sent_id = news_25_16-10-2002-1
 # text = Voyage au coeur d' un orage .
 1	Voyage	voyage	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -1979,7 +1979,7 @@
 17	h.	h.	NOUN	NOUN	Gender=Masc|Number=Plur	16	flat:name	_	_
 
 
-#newdoc id = news_30_10-01-2003
+# newdoc id = news_30_10-01-2003
 # sent_id = news_30_10-01-2003-1
 # text = COURCELLES-LES-MONTBELIARD
 1	COURCELLES-LES-MONTBELIARD	COURCELLES-LES-MONTBELIARD	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
@@ -2252,7 +2252,7 @@
 26	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 
-#newdoc id = news_27_21-01-2003
+# newdoc id = news_27_21-01-2003
 # sent_id = news_27_21-01-2003-1
 # text = Côte d' Ivoire : viols et pillages .
 1	Côte	Côte	PROPN	PROPN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -2454,7 +2454,7 @@
 32	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 
-#newdoc id = wik1_15_02-04-2006
+# newdoc id = wik1_15_02-04-2006
 # sent_id = wik1_15_02-04-2006-1
 # text = Cyclone Erica
 1	Cyclone	cyclone	NOUN	NOUN	Gender=Masc|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -3702,7 +3702,7 @@
 22	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 
-#newdoc id = news_31_10-01-2003
+# newdoc id = news_31_10-01-2003
 # sent_id = news_31_10-01-2003-1
 # text = Denise Jacquin n' est plus
 1	Denise	Denise	PROPN	PROPN	Gender=Fem|Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -4123,7 +4123,7 @@
 21	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
 
-#newdoc id = wik1_01_02-04-2006
+# newdoc id = wik1_01_02-04-2006
 # sent_id = wik1_01_02-04-2006-1
 # text = Le Ban Amendment
 1	Le	le	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -4592,7 +4592,7 @@
 39	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 
-#newdoc id = wik1_14_02-04-2006
+# newdoc id = wik1_14_02-04-2006
 # sent_id = wik1_14_02-04-2006-1
 # text = Une espèce domestiquée , animale ou végétale est une espèce qui a acquis des caractères morphologiques , physiologiques ou même comportementaux nouveaux et héréditaires , résultant d' une interaction prolongée , d' un contrôle voire d' une sélection délibérée de la part de l' être humain .
 1	Une	un	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -4908,7 +4908,7 @@
 18	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = wik1_09_02-04-2006
+# newdoc id = wik1_09_02-04-2006
 # sent_id = wik1_09_02-04-2006-1
 # text = Limites et défauts dans la détermination du PIB
 1	Limites	limite	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
@@ -5651,7 +5651,7 @@
 44	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = news_23_04-03-2002
+# newdoc id = news_23_04-03-2002
 # sent_id = news_23_04-03-2002-1
 # text = Une première réunion a eu lieu sur la question de l' indemnisation .
 1	Une	un	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
@@ -6198,7 +6198,7 @@
 16	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = news_12_18-06-1999
+# newdoc id = news_12_18-06-1999
 # sent_id = news_12_18-06-1999-1
 # text = L' éclipse du 11 août expliquée au centre Marie-Marvingt
 1	L'	le	DET	DET	Definite=Def|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -6611,7 +6611,7 @@
 9	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = news_21_21-01-2003
+# newdoc id = news_21_21-01-2003
 # sent_id = news_21_21-01-2003-1
 # text = L' association paroissiale investit dans les locaux de la cure .
 1	L'	le	DET	DET	Definite=Def|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -7052,7 +7052,7 @@
 5	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 
-#newdoc id = wik1_13_02-04-2006
+# newdoc id = wik1_13_02-04-2006
 # sent_id = wik1_13_02-04-2006-1
 # text = Arthur Penn
 1	Arthur	Arthur	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -7495,7 +7495,7 @@
 22	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 
-#newdoc id = wik1_06_02-04-2006
+# newdoc id = wik1_06_02-04-2006
 # sent_id = wik1_06_02-04-2006-1
 # text = Les réactions
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -7788,7 +7788,7 @@
 57	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 
-#newdoc id = news_29_21-01-2003
+# newdoc id = news_29_21-01-2003
 # sent_id = news_29_21-01-2003-1
 # text = Présidente de la Délégation aux droits des femmes de l' Assemblée nationale , Marie-Jo Zimmermann est inquiète .
 1	Présidente	président	NOUN	NOUN	Gender=Fem|Number=Sing	17	obl:mod	_	BeginSeg=Yes
@@ -8466,7 +8466,7 @@
 2	DIDIER	DIDIER	PROPN	PROPN	_	1	flat:name	_	_
 
 
-#newdoc id = wik1_11_02-04-2006
+# newdoc id = wik1_11_02-04-2006
 # sent_id = wik1_11_02-04-2006-1
 # text = Amelia Island
 1	Amelia	Amelia	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -8756,7 +8756,7 @@
 18	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 
-#newdoc id = wik1_04_02-04-2006
+# newdoc id = wik1_04_02-04-2006
 # sent_id = wik1_04_02-04-2006-1
 # text = Inhibition de contact
 1	Inhibition	inhibition	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -8957,7 +8957,7 @@
 18	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = wik1_19_02-04-2006
+# newdoc id = wik1_19_02-04-2006
 # sent_id = wik1_19_02-04-2006-1
 # text = Massacre d' Ispahan
 1	Massacre	massacre	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -9533,7 +9533,7 @@
 20	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 
-#newdoc id = news_22_25-02-2002
+# newdoc id = news_22_25-02-2002
 # sent_id = news_22_25-02-2002-1
 # text = Jet d' éponge
 1	Jet	jet	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -9930,7 +9930,7 @@
 23	...	...	PUNCT	PUNCT	_	9	punct	_	_
 
 
-#newdoc id = wik1_03_02-04-2006
+# newdoc id = wik1_03_02-04-2006
 # sent_id = wik1_03_02-04-2006-1
 # text = Houessou Akaba
 1	Houessou	Houessou	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -10012,7 +10012,7 @@
 9	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 
-#newdoc id = wik1_16_02-04-2006
+# newdoc id = wik1_16_02-04-2006
 # sent_id = wik1_16_02-04-2006-1
 # text = Exobiologie L ' exobiologie ( aussi appelée astrobiologie par les anglo-saxons ) est une science interdisciplinaire qui a pour objet l ' étude des facteurs et processus , notamment géochimiques et biochimiques , pouvant mener à l ' apparition de la vie , d ' une maniére générale , et à son évolution .
 1	Exobiologie	exobiologie	NOUN	NOUN	Gender=Fem|Number=Sing	15	nsubj	_	BeginSeg=Yes
@@ -10310,7 +10310,7 @@
 49	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 
-#newdoc id = news_14_30-06-1999
+# newdoc id = news_14_30-06-1999
 # sent_id = news_14_30-06-1999-1
 # text = Une pluie d' étoiles
 1	Une	un	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -10594,7 +10594,7 @@
 37	.	.	PUNCT	PUNCT	_	16	punct	_	_
 
 
-#newdoc id = news_24_21-01-2003
+# newdoc id = news_24_21-01-2003
 # sent_id = news_24_21-01-2003-1
 # text = Premier tour des « Petits Tigres » .
 1	Premier	premier	ADJ	ADJ	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	BeginSeg=Yes
@@ -10913,7 +10913,7 @@
 18	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 
-#newdoc id = news_26_10-01-2003
+# newdoc id = news_26_10-01-2003
 # sent_id = news_26_10-01-2003-1
 # text = Un acte malveillant ?
 1	Un	un	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -11244,7 +11244,7 @@
 1	C.L.	c.l.	NOUN	NOUN	_	0	root	_	BeginSeg=Yes
 
 
-#newdoc id = wik1_05_2_02-04-2006
+# newdoc id = wik1_05_2_02-04-2006
 # sent_id = wik1_05_2_02-04-2006-1
 # text = Règne
 1	Règne	Règne	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -11926,7 +11926,7 @@
 29	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = wik1_17_02-04-2006
+# newdoc id = wik1_17_02-04-2006
 # sent_id = wik1_17_02-04-2006-1
 # text = Chouette hulotte
 1	Chouette	chouette	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -12215,7 +12215,7 @@
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = wik1_02_02-04-2006
+# newdoc id = wik1_02_02-04-2006
 # sent_id = wik1_02_02-04-2006-1
 # text = Franco Sbarro
 1	Franco	Franco	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -12912,7 +12912,7 @@
 22	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = news_16_18-07-1999
+# newdoc id = news_16_18-07-1999
 # sent_id = news_16_18-07-1999-1
 # text = La batterie sans harmonie
 1	La	le	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -13178,7 +13178,7 @@
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 
-#newdoc id = wik1_18_02-04-2006
+# newdoc id = wik1_18_02-04-2006
 # sent_id = wik1_18_02-04-2006-1
 # text = Inspecteur Bayard
 1	Inspecteur	inspecteur	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -13450,7 +13450,7 @@
 22	K.	k.	NOUN	NOUN	Gender=Masc|Number=Sing	21	flat:name	_	_
 
 
-#newdoc id = wik1_10_02-04-2006
+# newdoc id = wik1_10_02-04-2006
 # sent_id = wik1_10_02-04-2006-1
 # text = De Mariana à Aleria
 1	De	de	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -14288,7 +14288,7 @@
 78	.	.	PUNCT	PUNCT	_	41	punct	_	_
 
 
-#newdoc id = news_03_17-05-1999
+# newdoc id = news_03_17-05-1999
 # sent_id = news_03_17-05-1999-1
 # text = Gutenberg
 1	Gutenberg	Gutenberg	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
@@ -14463,7 +14463,7 @@
 22	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 
-#newdoc id = news_08_23-05-1999
+# newdoc id = news_08_23-05-1999
 # sent_id = news_08_23-05-1999-1
 # text = Le président Simon : rien ne lui échappe !
 1	Le	le	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -14798,7 +14798,7 @@
 4	!	!	PUNCT	PUNCT	_	1	punct	_	_
 
 
-#newdoc id = news_04_17-05-1999
+# newdoc id = news_04_17-05-1999
 # sent_id = news_04_17-05-1999-1
 # text = Les enfants et les pêcheurs
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -15040,7 +15040,7 @@
 44	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 
-#newdoc id = wik1_23_02-04-2006
+# newdoc id = wik1_23_02-04-2006
 # sent_id = wik1_23_02-04-2006-1
 # text = L’ art en Europe .
 1	L’	l’	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -15828,7 +15828,7 @@
 14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = news_07_23-05-1999
+# newdoc id = news_07_23-05-1999
 # sent_id = news_07_23-05-1999-1
 # text = Décès de Guy Hosneld M. Hosneld avait 44 ans .
 1	Décès	décès	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -16160,7 +16160,7 @@
 6	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = news_06_23-05-1999
+# newdoc id = news_06_23-05-1999
 # sent_id = news_06_23-05-1999-1
 # text = L' agenda sportif Football
 1	L'	le	DET	DET	Definite=Def|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -16382,7 +16382,7 @@
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 
-#newdoc id = wik1_22_02-04-2006
+# newdoc id = wik1_22_02-04-2006
 # sent_id = wik1_22_02-04-2006-1
 # text = La psychothérapie est une pratique visant à donner du sens , à soigner et éventuellement à résoudre les problèmes découlant d' une souffrance psychique rencontrée par des individus et pouvant se manifester par des symptômes comme la dépression , l' anxiété ou éventuellement par des conduites ( alimentaires TCA , conduites à risques , etc. ) .
 1	La	le	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -16667,7 +16667,7 @@
 26	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 
-#newdoc id = news_18_21-01-2003
+# newdoc id = news_18_21-01-2003
 # sent_id = news_18_21-01-2003-1
 # text = Création d' un atelier « Arts plastiques » .
 1	Création	création	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -16941,7 +16941,7 @@
 32	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 
-#newdoc id = news_05_17-05-1999
+# newdoc id = news_05_17-05-1999
 # sent_id = news_05_17-05-1999-1
 # text = Une nouvelle école pour la commune
 1	Une	un	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
@@ -17409,7 +17409,7 @@
 42	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = wik1_25_02-04-2006
+# newdoc id = wik1_25_02-04-2006
 # sent_id = wik1_25_02-04-2006-1
 # text = Jean Paulhan Jean Paulhan , né à Nîmes le 2 décembre 1884 et mort à Paris le 9 octobre 1968 , est un écrivain , un critique et un éditeur français , directeur de la Nouvelle Revue française de 1925 à 1940 et de 1946 à 1968 .
 1	Jean	Jean	PROPN	PROPN	Gender=Fem|Number=Sing	24	nsubj	_	BeginSeg=Yes
@@ -17849,7 +17849,7 @@
 8	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = news_17_21-01-2003
+# newdoc id = news_17_21-01-2003
 # sent_id = news_17_21-01-2003-1
 # text = Que la lumière soit !
 1	Que	que	SCONJ	SCONJ	_	4	mark	_	BeginSeg=Yes
@@ -18315,7 +18315,7 @@
 7	!	!	PUNCT	PUNCT	_	3	punct	_	_
 
 
-#newdoc id = news_09_23-05-1999
+# newdoc id = news_09_23-05-1999
 # sent_id = news_09_23-05-1999-1
 # text = Toi mon toit
 1	Toi	toi	PRON	PRON	Number=Sing|Person=2|PronType=Prs	0	root	_	BeginSeg=Yes
@@ -18518,7 +18518,7 @@
 45	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 
-#newdoc id = news_02_17-05-1999
+# newdoc id = news_02_17-05-1999
 # sent_id = news_02_17-05-1999-1
 # text = Espoir
 1	Espoir	espoir	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -18852,7 +18852,7 @@
 14	h.	h.	NOUN	NOUN	Gender=Masc|Number=Plur	7	nmod	_	_
 
 
-#newdoc id = news_15_21-01-2003
+# newdoc id = news_15_21-01-2003
 # sent_id = news_15_21-01-2003-1
 # text = Suzanne Sequin n' est plus .
 1	Suzanne	Suzanne	PROPN	PROPN	Gender=Fem|Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -19231,7 +19231,7 @@
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = wik1_20_02-04-2006
+# newdoc id = wik1_20_02-04-2006
 # sent_id = wik1_20_02-04-2006-1
 # text = René Léon Bourret René Leon Bourret est un géologue et un zoologiste français , né le 28 janvier 1884 à Nérac , Lot-et-Garonne et mort le 28 juillet 1957 à Toulouse .
 1	René	René	PROPN	PROPN	Gender=Masc|Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -19627,7 +19627,7 @@
 20	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 
-#newdoc id = news_11_23-05-1999
+# newdoc id = news_11_23-05-1999
 # sent_id = news_11_23-05-1999-1
 # text = Un véhicule a effectué une spectaculaire sortie de route , hier vers 18 h 15 , sur l' A36 .
 1	Un	un	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -19867,7 +19867,7 @@
 15	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 
-#newdoc id = news_10_23-05-1999
+# newdoc id = news_10_23-05-1999
 # sent_id = news_10_23-05-1999-1
 # text = Un malaise
 1	Un	un	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -20082,7 +20082,7 @@
 32	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 
-#newdoc id = wik1_21_02-04-2006
+# newdoc id = wik1_21_02-04-2006
 # sent_id = wik1_21_02-04-2006-1
 # text = Le scandale qui frappe le cyclisme a encore franchi un pas , avec l' exclusion de Marco Pantani du Giro .
 1	Le	le	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -20368,7 +20368,7 @@
 18	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 
-#newdoc id = news_01_17-05-1999
+# newdoc id = news_01_17-05-1999
 # sent_id = news_01_17-05-1999-1
 # text = Amélioration de la sécurité
 1	Amélioration	amélioration	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -20518,7 +20518,7 @@
 42	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 
-#newdoc id = news_19_30-08-1999
+# newdoc id = news_19_30-08-1999
 # sent_id = news_19_30-08-1999-1
 # text = A Soleuvre : des hauts et des bas
 1	A	a	NOUN	NOUN	_	0	root	_	BeginSeg=Yes
@@ -20770,7 +20770,7 @@
 1	»	»	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
 
 
-#newdoc id = geop_3_effort
+# newdoc id = geop_3_effort
 # sent_id = geop_3_effort-1
 # text = Un effort de R&D sur la militarisation de l’ espace .
 1	Un	un	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -21440,7 +21440,7 @@
 32	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
 
-#newdoc id = wik2_rechauffementClimatique_section7_32
+# newdoc id = wik2_rechauffementClimatique_section7_32
 # sent_id = wik2_rechauffementClimatique_section7_32-1
 # text = Californie .
 1	Californie	californie	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -22202,7 +22202,7 @@
 20	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 
-#newdoc id = wik2_rechauffementClimatique_section7_2
+# newdoc id = wik2_rechauffementClimatique_section7_2
 # sent_id = wik2_rechauffementClimatique_section7_2-1
 # text = L' UE , pionnière dans la lutte contre les émissions de CO .
 1	L'	le	DET	DET	Definite=Def|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -22854,7 +22854,7 @@
 15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 
-#newdoc id = wik2_noamChomsky_abstract
+# newdoc id = wik2_noamChomsky_abstract
 # sent_id = wik2_noamChomsky_abstract-1
 # text = Noam Chomsky .
 1	Noam	Noam	X	X	_	0	root	_	BeginSeg=Yes
@@ -23419,7 +23419,7 @@
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 
-#newdoc id = wik2_rechauffementClimatique_section1_3
+# newdoc id = wik2_rechauffementClimatique_section1_3
 # sent_id = wik2_rechauffementClimatique_section1_3-1
 # text = Temps historiques .
 1	Temps	temps	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
@@ -23978,7 +23978,7 @@
 14	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 
-#newdoc id = wik2_homoSapiens_origines
+# newdoc id = wik2_homoSapiens_origines
 # sent_id = wik2_homoSapiens_origines-1
 # text = Homo Sapiens - Origines .
 1	Homo	Homo	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -24690,7 +24690,7 @@
 18	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 
-#newdoc id = wik2_rechauffementClimatique_section4_1
+# newdoc id = wik2_rechauffementClimatique_section4_1
 # sent_id = wik2_rechauffementClimatique_section4_1-1
 # text = Modèles climatiques .
 1	Modèles	modèle	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
@@ -25122,7 +25122,7 @@
 22	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 
-#newdoc id = wik2_attentats11sept_abstract
+# newdoc id = wik2_attentats11sept_abstract
 # sent_id = wik2_attentats11sept_abstract-1
 # text = Attentats du 11 septembre 2001 .
 1	Attentats	attentat	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
