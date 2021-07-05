@@ -5,7 +5,7 @@ Repository for DISRPT2021 shared task Discourse Unit Segmentation, Connective De
 **Please check our [FAQ](https://sites.google.com/georgetown.edu/disrpt2021/faq?authuser=0) page on our main [website](
 https://sites.google.com/georgetown.edu/disrpt2021) for more information about the Shared Task, Participation, and Evaluation etc.!**
 
-**Important:** The data in this repository is currently still in development and is likely to change before being finalized. It should only be used as a sample of the data formats used in the shared task. Stable training and development data ~~will be~~ was released in May 2021, and test data will be released in July 2021.
+**Important update:** Stable training and development data ~~will be~~ was released in May 2021, and test data ~~will be~~ was released in July 2021.
 
 **Shared task participants are encouraged to follow this repository in case bugs are found and need to be fixed.** 
 
@@ -34,7 +34,7 @@ Systems should be accompanied by a regular workshop paper in the ACL format, as 
 
   * ~~Mon, March 1, 2021 - shared task sample data release~~
   * ~~May, 2021 - training data release~~
-  * July, 2021 - test data release
+  * ~~July, 2021 - test data release~~
   * August, 2021 - papers due
   * September, 2021 - notification of acceptance
   * October, 2021 - camera-ready papers due
@@ -51,3 +51,41 @@ The shared task repository currently comprises the following directories (to be 
 
 See the README files in individual data directories for more details on each dataset.
 
+## Surprise language
+
+At the release of the test data, a surprise language dataset was added: Persian RST data from the Persian RST Corpus (PRSTC). 
+
+## Statistics
+
+| corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | dev_toks | dev_sents | dev_docs | test_toks | test_sents | test_docs | total_sents | total_toks | total_docs | seg_style | underscored | syntax | MWTs | ellip |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| deu.rst.pcc | deu | rst | 2,165 | 27 | no | 26,831 | 1,773 | 142 | 3,152 | 207 | 17 | 3,239 | 213 | 17 | 2,193 | 33,222 | 176 | EDU | no | UD | no | no |
+| eng.pdtb.pdtb | eng | pdtb | 43,921 | 24 | yes | 1,061,229 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 55,660 | 2,364 | 91 | 48,630 | 1,156,657 | 2,162 | Conn | yes | UD (gold) | no | no |
+| eng.rst.gum | eng | rst | 13,898 | 24 | yes | 116,557 | 6,346 | 128 | 18,172 | 947 | 20 | 18,127 | 999 | 20 | 8,292 | 152,856 | 168 | EDU | no | UD (gold) | yes | yes |
+| eng.rst.rstdt | eng | rst | 16,003 | 18 | yes | 166,854 | 6,672 | 309 | 17,309 | 717 | 38 | 21,666 | 929 | 38 | 8,318 | 205,829 | 385 | EDU | yes | UD (gold) | no | no |
+| eng.sdrt.stac | eng | sdrt | 9,581 | 17 | no | 41,060 | 8,754 | 33 | 4,747 | 991 | 6 | 6,547 | 1,342 | 6 | 11,087 | 52,354 | 45 | EDU | no | UD | no | no |
+| eus.rst.ert | eus | rst | 2,534 | 30 | yes | 30,690 | 1,599 | 116 | 7,219 | 366 | 24 | 7,871 | 415 | 24 | 2,380 | 45,780 | 164 | EDU | no | UD | no | no |
+| fas.rst.prstc | fas | rst | 4,101 | 18 | yes | 52,497 | 1,713 | 120 | 7,033 | 202 | 15 | 7,396 | 264 | 15 | 2,179 | 66,926 | 150 | EDU | no | UD | yes | no |
+| fra.sdrt.annodis | fra | sdrt | 2,186 | 19 | yes | 22,576 | 975 | 64 | 5,053 | 252 | 11 | 5,214 | 235 | 11 | 1,462 | 32,843 | 86 | EDU | no | UD | no | no |
+| nld.rst.nldt | nld | rst | 1,609 | 33 | no | 17,562 | 1,156 | 56 | 3,783 | 255 | 12 | 3,553 | 240 | 12 | 1,651 | 24,898 | 80 | EDU | no | UD | no | no |
+| por.rst.cstn | por | rst | 4,149 | 33 | yes | 52,177 | 1,825 | 114 | 7,023 | 257 | 14 | 4,132 | 139 | 12 | 2,221 | 63,332 | 140 | EDU | no | UD | yes | no |
+| rus.rst.rrt | rus | rst | 28,869 | 23 | yes | 390,375 | 18,932 | 272 | 40,779 | 2,025 | 30 | 41,851 | 2,087 | 30 | 23,044 | 473,005 | 332 | EDU | no | UD | no | no |
+| spa.rst.rststb | spa | rst | 2,241 | 29 | yes | 43,055 | 1,548 | 203 | 7,551 | 254 | 32 | 8,111 | 287 | 32 | 2,089 | 58,717 | 267 | EDU | no | UD | no | no |
+| spa.rst.sctb | spa | rst | 440 | 25 | yes | 10,253 | 326 | 32 | 2,448 | 76 | 9 | 3,814 | 114 | 9 | 516 | 16,515 | 50 | EDU | no | UD | no | no |
+| tur.pdtb.tdb | tur | pdtb | 2,452 | 24 | yes | 398,515 | 24,960 | 159 | 49,952 | 2,948 | 19 | 47,891 | 3,289 | 19 | 31,197 | 496,358 | 197 | Conn | yes | UD | yes | no |
+| zho.pdtb.cdtb | zho | pdtb | 3,658 | 10 | yes | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 10,075 | 404 | 18 | 2,891 | 73,314 | 164 | Conn | yes | other (gold) | no | no |
+| zho.rst.sctb | zho | rst | 440 | 27 | yes | 9,655 | 361 | 32 | 2,264 | 86 | 9 | 3,577 | 133 | 9 | 580 | 15,496 | 50 | EDU | no | UD | no | no |
+
+
+*Legend*
+
+  * corpus - unique corpus identifier, consisting of the language code, framework acronym and an abbreviation for the corpus name
+  * lang - ISO 639-3, 3 letter language code
+  * framework - one of pdtb (Penn Discourse Treebank framework), rst (Rhetorical Structure Theory) or sdrt (Segmented Discourse Representation Theory)
+  * rels - number of discourse relation instances (note that for tur.pdtb.tdb, only a subset of the data annotated for connectives also has discourse relation types, so there are much fewer relation instances and documents than connectives)
+  * rel_types - number of distinct relation types targeted in the shared task 'label' column. Note that for some corpora, these were collapsed from a larger inventory, but the original uncollapsed relation labels are retained in the column orig_label
+  * discont - whether the relation classification dataset contains discontinuous discourse units. Note that for segmentation, each part of a discontinous unit constitutes its own segment, so these datasets only differ overtly in the .rels file, where gaps are indicated by `<*>`.
+  * underscored - whether all text is contained in the data (`no`), all text needs to be retrieved using the `process_underscores.py` script (`yes`), or part of the text needs to be retrieved by the same script (`part`)
+  * syntax - type of syntax trees: automatic Universal Dependencies (UD) or other, and gold standard (manual or converted from manual annotation) or not (automatic). See individual corpus README files for more details.
+  * MWTs - whether the corpus uses CoNLL-U Multiword Tokens with hyphens in IDs for complex word forms (e.g. `1-2 don't ... 1 do ... 2 n't`)
+  * ellip - whether the corpus uses CoNLL-U ellipsis tokens (a.k.a. null or empty tokens) with decimal IDs (e.g. `8.1`) to reconstruct ellipsis phenomena. Note that such tokens only appear in `.conllu` files, since they are not actually part of the text; they are never the location of a discourse unit segmentation point and are omitted in .tok and .rels files, and they are not counted in the token offsets in .rels files.
