@@ -66,7 +66,7 @@ At the release of the test data, a surprise language dataset was added: Persian 
 | eng.sdrt.stac | eng | sdrt | 9,581 | 17 | no | 41,060 | 8,754 | 33 | 4,747 | 991 | 6 | 6,547 | 1,342 | 6 | 11,087 | 52,354 | 45 | EDU | no | UD | no | no |
 | eus.rst.ert | eus | rst | 2,534 | 30 | yes | 30,690 | 1,599 | 116 | 7,219 | 366 | 24 | 7,871 | 415 | 24 | 2,380 | 45,780 | 164 | EDU | no | UD | no | no |
 | fas.rst.prstc | fas | rst | 4,101 | 18 | yes | 52,497 | 1,713 | 120 | 7,033 | 202 | 15 | 7,396 | 264 | 15 | 2,179 | 66,926 | 150 | EDU | no | UD | yes | no |
-| fra.sdrt.annodis | fra | sdrt | 2,186 | 19 | yes | 22,576 | 975 | 64 | 5,053 | 252 | 11 | 5,214 | 235 | 11 | 1,462 | 32,843 | 86 | EDU | no | UD | no | no |
+| fra.sdrt.annodis | fra | sdrt | 2,186 | 19 | yes | 22,515 | 1,020 | 64 | 5,013 | 245 | 11 | 5,171 | 242 | 11 | 1,507 | 32,699 | 86 | EDU | no | UD | no | no |
 | nld.rst.nldt | nld | rst | 1,609 | 33 | no | 17,562 | 1,156 | 56 | 3,783 | 255 | 12 | 3,553 | 240 | 12 | 1,651 | 24,898 | 80 | EDU | no | UD | no | no |
 | por.rst.cstn | por | rst | 4,149 | 33 | yes | 52,177 | 1,825 | 114 | 7,023 | 257 | 14 | 4,132 | 139 | 12 | 2,221 | 63,332 | 140 | EDU | no | UD | yes | no |
 | rus.rst.rrt | rus | rst | 28,869 | 23 | yes | 390,375 | 18,932 | 272 | 40,779 | 2,025 | 30 | 41,851 | 2,087 | 30 | 23,044 | 473,005 | 332 | EDU | no | UD | no | no |
@@ -75,7 +75,6 @@ At the release of the test data, a surprise language dataset was added: Persian 
 | tur.pdtb.tdb | tur | pdtb | 2,452 | 24 | yes | 398,515 | 24,960 | 159 | 49,952 | 2,948 | 19 | 47,891 | 3,289 | 19 | 31,197 | 496,358 | 197 | Conn | yes | UD | yes | no |
 | zho.pdtb.cdtb | zho | pdtb | 3,658 | 10 | yes | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 10,075 | 404 | 18 | 2,891 | 73,314 | 164 | Conn | yes | other (gold) | no | no |
 | zho.rst.sctb | zho | rst | 440 | 27 | yes | 9,655 | 361 | 32 | 2,264 | 86 | 9 | 3,577 | 133 | 9 | 580 | 15,496 | 50 | EDU | no | UD | no | no |
-
 
 *Legend*
 
