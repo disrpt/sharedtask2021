@@ -59,22 +59,22 @@ At the release of the test data, a surprise language dataset was added: Persian 
 
 | corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | dev_toks | dev_sents | dev_docs | test_toks | test_sents | test_docs | total_sents | total_toks | total_docs | seg_style | underscored | syntax | MWTs | ellip |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| deu.rst.pcc | deu | rst | 2,165 | 27 | no | 26,831 | 1,773 | 142 | 3,152 | 207 | 17 | 3,239 | 213 | 17 | 2,193 | 33,222 | 176 | EDU | no | UD | no | no |
-| eng.pdtb.pdtb | eng | pdtb | 43,921 | 24 | yes | 1,061,229 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 55,660 | 2,364 | 91 | 48,630 | 1,156,657 | 2,162 | Conn | yes | UD (gold) | no | no |
-| eng.rst.gum | eng | rst | 13,898 | 24 | yes | 116,557 | 6,346 | 128 | 18,172 | 947 | 20 | 18,127 | 999 | 20 | 8,292 | 152,856 | 168 | EDU | no | UD (gold) | yes | yes |
-| eng.rst.rstdt | eng | rst | 16,003 | 18 | yes | 166,854 | 6,672 | 309 | 17,309 | 717 | 38 | 21,666 | 929 | 38 | 8,318 | 205,829 | 385 | EDU | yes | UD (gold) | no | no |
-| eng.sdrt.stac | eng | sdrt | 9,581 | 17 | no | 41,060 | 8,754 | 33 | 4,747 | 991 | 6 | 6,547 | 1,342 | 6 | 11,087 | 52,354 | 45 | EDU | no | UD | no | no |
-| eus.rst.ert | eus | rst | 2,534 | 30 | yes | 30,690 | 1,599 | 116 | 7,219 | 366 | 24 | 7,871 | 415 | 24 | 2,380 | 45,780 | 164 | EDU | no | UD | no | no |
-| fas.rst.prstc | fas | rst | 4,101 | 18 | yes | 52,497 | 1,713 | 120 | 7,033 | 202 | 15 | 7,396 | 264 | 15 | 2,179 | 66,926 | 150 | EDU | no | UD | yes | no |
-| fra.sdrt.annodis | fra | sdrt | 2,186 | 19 | yes | 22,515 | 1,020 | 64 | 5,013 | 245 | 11 | 5,171 | 242 | 11 | 1,507 | 32,699 | 86 | EDU | no | UD | no | no |
-| nld.rst.nldt | nld | rst | 1,609 | 33 | no | 17,562 | 1,156 | 56 | 3,783 | 255 | 12 | 3,553 | 240 | 12 | 1,651 | 24,898 | 80 | EDU | no | UD | no | no |
-| por.rst.cstn | por | rst | 4,149 | 33 | yes | 52,177 | 1,825 | 114 | 7,023 | 257 | 14 | 4,132 | 139 | 12 | 2,221 | 63,332 | 140 | EDU | no | UD | yes | no |
-| rus.rst.rrt | rus | rst | 28,869 | 23 | yes | 390,375 | 18,932 | 272 | 40,779 | 2,025 | 30 | 41,851 | 2,087 | 30 | 23,044 | 473,005 | 332 | EDU | no | UD | no | no |
-| spa.rst.rststb | spa | rst | 2,241 | 29 | yes | 43,055 | 1,548 | 203 | 7,551 | 254 | 32 | 8,111 | 287 | 32 | 2,089 | 58,717 | 267 | EDU | no | UD | no | no |
-| spa.rst.sctb | spa | rst | 440 | 25 | yes | 10,253 | 326 | 32 | 2,448 | 76 | 9 | 3,814 | 114 | 9 | 516 | 16,515 | 50 | EDU | no | UD | no | no |
-| tur.pdtb.tdb | tur | pdtb | 2,452 | 24 | yes | 398,515 | 24,960 | 159 | 49,952 | 2,948 | 19 | 47,891 | 3,289 | 19 | 31,197 | 496,358 | 197 | Conn | yes | UD | yes | no |
-| zho.pdtb.cdtb | zho | pdtb | 3,658 | 10 | yes | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 10,075 | 404 | 18 | 2,891 | 73,314 | 164 | Conn | yes | other (gold) | no | no |
-| zho.rst.sctb | zho | rst | 440 | 27 | yes | 9,655 | 361 | 32 | 2,264 | 86 | 9 | 3,577 | 133 | 9 | 580 | 15,496 | 50 | EDU | no | UD | no | no |
+| deu.rst.pcc | deu | rst | 2,164 | 26 | no | 26,831 | 1,773 | 142 | 3,152 | 207 | 17 | 3,239 | 213 | 17 | 2,193 | 33,222 | 176 | EDU | no | UD | no | no |
+| eng.pdtb.pdtb | eng | pdtb | 43,920 | 23 | yes | 1,061,229 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 55,660 | 2,364 | 91 | 48,630 | 1,156,657 | 2,162 | Conn | yes | UD (gold) | no | no |
+| eng.rst.gum | eng | rst | 13,897 | 23 | yes | 116,557 | 6,346 | 128 | 18,172 | 947 | 20 | 18,127 | 999 | 20 | 8,292 | 152,856 | 168 | EDU | no | UD (gold) | yes | yes |
+| eng.rst.rstdt | eng | rst | 16,002 | 17 | yes | 166,854 | 6,672 | 309 | 17,309 | 717 | 38 | 21,666 | 929 | 38 | 8,318 | 205,829 | 385 | EDU | yes | UD (gold) | no | no |
+| eng.sdrt.stac | eng | sdrt | 9,580 | 16 | no | 41,060 | 8,754 | 33 | 4,747 | 991 | 6 | 6,547 | 1,342 | 6 | 11,087 | 52,354 | 45 | EDU | no | UD | no | no |
+| eus.rst.ert | eus | rst | 2,533 | 29 | yes | 30,690 | 1,599 | 116 | 7,219 | 366 | 24 | 7,871 | 415 | 24 | 2,380 | 45,780 | 164 | EDU | no | UD | no | no |
+| fas.rst.prstc | fas | rst | 4,100 | 17 | yes | 52,497 | 1,713 | 120 | 7,033 | 202 | 15 | 7,396 | 264 | 15 | 2,179 | 66,926 | 150 | EDU | no | UD | yes | no |
+| fra.sdrt.annodis | fra | sdrt | 2,185 | 18 | yes | 22,515 | 1,020 | 64 | 5,013 | 245 | 11 | 5,171 | 242 | 11 | 1,507 | 32,699 | 86 | EDU | no | UD | no | no |
+| nld.rst.nldt | nld | rst | 1,608 | 32 | no | 17,562 | 1,156 | 56 | 3,783 | 255 | 12 | 3,553 | 240 | 12 | 1,651 | 24,898 | 80 | EDU | no | UD | no | no |
+| por.rst.cstn | por | rst | 4,148 | 32 | yes | 52,177 | 1,825 | 114 | 7,023 | 257 | 14 | 4,132 | 139 | 12 | 2,221 | 63,332 | 140 | EDU | no | UD | yes | no |
+| rus.rst.rrt | rus | rst | 28,868 | 22 | yes | 390,375 | 18,932 | 272 | 40,779 | 2,025 | 30 | 41,851 | 2,087 | 30 | 23,044 | 473,005 | 332 | EDU | no | UD | no | no |
+| spa.rst.rststb | spa | rst | 2,240 | 28 | yes | 43,055 | 1,548 | 203 | 7,551 | 254 | 32 | 8,111 | 287 | 32 | 2,089 | 58,717 | 267 | EDU | no | UD | no | no |
+| spa.rst.sctb | spa | rst | 439 | 24 | yes | 10,253 | 326 | 32 | 2,448 | 76 | 9 | 3,814 | 114 | 9 | 516 | 16,515 | 50 | EDU | no | UD | no | no |
+| tur.pdtb.tdb | tur | pdtb | 2,451 | 23 | yes | 398,515 | 24,960 | 159 | 49,952 | 2,948 | 19 | 47,891 | 3,289 | 19 | 31,197 | 496,358 | 197 | Conn | yes | UD | yes | no |
+| zho.pdtb.cdtb | zho | pdtb | 3,657 | 9 | yes | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 10,075 | 404 | 18 | 2,891 | 73,314 | 164 | Conn | yes | other (gold) | no | no |
+| zho.rst.sctb | zho | rst | 439 | 26 | yes | 9,655 | 361 | 32 | 2,264 | 86 | 9 | 3,577 | 133 | 9 | 580 | 15,496 | 50 | EDU | no | UD | no | no |
 
 *Legend*
 
