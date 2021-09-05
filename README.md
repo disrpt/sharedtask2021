@@ -67,7 +67,7 @@ At the release of the test data, a surprise language dataset was added: Persian 
 | eus.rst.ert | eus | rst | 2,533 | 29 | yes | 30,690 | 1,599 | 116 | 7,219 | 366 | 24 | 7,871 | 415 | 24 | 2,380 | 45,780 | 164 | EDU | no | UD | no | no |
 | fas.rst.prstc | fas | rst | 4,100 | 17 | yes | 52,497 | 1,713 | 120 | 7,033 | 202 | 15 | 7,396 | 264 | 15 | 2,179 | 66,926 | 150 | EDU | no | UD | yes | no |
 | fra.sdrt.annodis | fra | sdrt | 2,185 | 18 | yes | 22,515 | 1,020 | 64 | 5,013 | 245 | 11 | 5,171 | 242 | 11 | 1,507 | 32,699 | 86 | EDU | no | UD | no | no |
-| nld.rst.nldt | nld | rst | 1,608 | 33 | no | 17,562 | 1,156 | 56 | 3,783 | 255 | 12 | 3,553 | 240 | 12 | 1,651 | 24,898 | 80 | EDU | no | UD | no | no |
+| nld.rst.nldt | nld | rst | 1,608 | 32 | no | 17,562 | 1,156 | 56 | 3,783 | 255 | 12 | 3,553 | 240 | 12 | 1,651 | 24,898 | 80 | EDU | no | UD | no | no |
 | por.rst.cstn | por | rst | 4,148 | 32 | yes | 52,177 | 1,825 | 114 | 7,023 | 257 | 14 | 4,132 | 139 | 12 | 2,221 | 63,332 | 140 | EDU | no | UD | yes | no |
 | rus.rst.rrt | rus | rst | 28,868 | 22 | yes | 390,375 | 18,932 | 272 | 40,779 | 2,025 | 30 | 41,851 | 2,087 | 30 | 23,044 | 473,005 | 332 | EDU | no | UD | no | no |
 | spa.rst.rststb | spa | rst | 2,240 | 28 | yes | 43,055 | 1,548 | 203 | 7,551 | 254 | 32 | 8,111 | 287 | 32 | 2,089 | 58,717 | 267 | EDU | no | UD | no | no |
