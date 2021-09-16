@@ -94,6 +94,11 @@ def parse_data(infile, string_input=False):
 			if "BeginSeg=Yes" in label:
 				label = "BeginSeg=Yes"
 			elif "Seg=B-Conn" in label:
+				if span_start > -1:  # Add span
+					if span_end == -1:
+						span_end = span_start
+					spans.append((span_start,span_end))
+					span_end = -1
 				label ="Seg=B-Conn"
 				span_start = counter
 			elif "Seg=I-Conn" in label:
